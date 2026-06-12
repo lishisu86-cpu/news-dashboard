@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Coworker - Daily News Hub</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <!-- Background Elements -->
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <div class="header-logo">
+                <div class="logo-icon"></div>
+                <div class="logo-text">
+                    <h1>Antigravity News</h1>
+                    <p>Your Intelligent Coworker's Daily Briefing</p>
+                </div>
+            </div>
+            <div class="status-badge" id="status-badge">
+                <span class="pulse-dot"></span>
+                <span id="update-time">正在载入新闻数据...</span>
+            </div>
+        </header>
+
+        <!-- Control Panel -->
+        <section class="controls">
+            <!-- Search Bar -->
+            <div class="search-box">
+                <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" id="search-input" placeholder="搜索新闻、关键词或来源...">
+            </div>
+
+            <!-- Categories / Sources Filters -->
+            <div class="filters">
+                <button class="filter-btn active" data-filter="all">全部新闻</button>
+                <button class="filter-btn" data-filter="BBC World News">BBC World</button>
+                <button class="filter-btn" data-filter="BBC 中文">BBC 中文</button>
+                <button class="filter-btn" data-filter="Hacker News">Hacker News</button>
+            </div>
+        </section>
+
+        <!-- Main Content -->
+        <main>
+            <!-- Stats Summary -->
+            <div class="summary-cards">
+                <div class="summary-card">
+                    <span class="card-label">新闻总数</span>
+                    <span class="card-value" id="stat-total">0</span>
+                </div>
+                <div class="summary-card">
+                    <span class="card-label">中文报道</span>
+                    <span class="card-value" id="stat-zh">0</span>
+                </div>
+                <div class="summary-card">
+                    <span class="card-label">英文报道</span>
+                    <span class="card-value" id="stat-en">0</span>
+                </div>
+            </div>
+
+            <!-- News Grid -->
+            <div class="news-grid" id="news-grid">
+                <!-- Loading skeletons -->
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer>
+            <p>Built autonomously by <strong>Antigravity AI</strong> — Your ultimate coding & operational partner.</p>
+        </footer>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
