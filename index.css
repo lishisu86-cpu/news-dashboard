@@ -1,14 +1,16 @@
 /* Core Variables & Reset */
 :root {
-    --bg-primary: #0a0c10;
-    --bg-surface: rgba(18, 22, 33, 0.65);
+    --bg-primary: #080a0f;
+    --bg-surface: rgba(15, 19, 29, 0.7);
     --border-color: rgba(255, 255, 255, 0.08);
-    --text-primary: #f0f2f5;
-    --text-secondary: #9ea7b4;
+    --text-primary: #f3f4f6;
+    --text-secondary: #9ca3af;
     --accent-blue: #3b82f6;
     --accent-blue-rgb: 59, 130, 246;
     --accent-purple: #8b5cf6;
     --accent-cyan: #06b6d4;
+    --accent-green: #10b981;
+    --accent-red: #ef4444;
     --glass-blur: 16px;
     --transition-smooth: all 0.35s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
@@ -82,12 +84,12 @@ body {
     position: relative;
 }
 
-/* Header */
+/* Header & Actions */
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
     padding-bottom: 1.5rem;
     border-bottom: 1px solid var(--border-color);
 }
@@ -132,13 +134,42 @@ header {
     margin-top: 2px;
 }
 
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+/* Language Switcher */
+.lang-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.04);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    font-size: 0.8rem;
+    font-weight: 600;
+    cursor: pointer;
+    backdrop-filter: blur(var(--glass-blur));
+    transition: var(--transition-smooth);
+}
+
+.lang-btn:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-1px);
+}
+
 .status-badge {
     display: flex;
     align-items: center;
     gap: 0.6rem;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 1.1rem;
     border-radius: 50px;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(255, 255, 255, 0.02);
     border: 1px solid var(--border-color);
     backdrop-filter: blur(var(--glass-blur));
     font-size: 0.8rem;
@@ -171,11 +202,57 @@ header {
     100% { transform: scale(2.5); opacity: 0; }
 }
 
+/* Navigation Tabs Bar */
+.nav-tabs {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.75rem;
+    margin-bottom: 2.5rem;
+    background: rgba(255, 255, 255, 0.02);
+    padding: 0.5rem;
+    border-radius: 16px;
+    border: 1px solid var(--border-color);
+    backdrop-filter: blur(var(--glass-blur));
+}
+
+.tab-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    padding: 1rem 0.5rem;
+    border: none;
+    border-radius: 12px;
+    background: transparent;
+    color: var(--text-secondary);
+    font-family: 'Outfit', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+}
+
+.tab-btn:hover {
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.03);
+}
+
+.tab-btn.active {
+    background: linear-gradient(135deg, rgba(var(--accent-blue-rgb), 0.15), rgba(139, 92, 246, 0.15));
+    border: 1px solid rgba(var(--accent-blue-rgb), 0.3);
+    color: #ffffff;
+    box-shadow: 0 8px 20px rgba(var(--accent-blue-rgb), 0.1);
+}
+
+.tab-icon {
+    font-size: 1.2rem;
+}
+
 /* Controls */
 .controls {
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 1.25rem;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 2rem;
@@ -184,8 +261,8 @@ header {
 .search-box {
     position: relative;
     flex: 1;
-    min-width: 300px;
-    max-width: 500px;
+    min-width: 320px;
+    max-width: 480px;
 }
 
 .search-box input {
@@ -217,7 +294,7 @@ header {
     pointer-events: none;
 }
 
-.filters {
+.sub-filters {
     display: flex;
     gap: 0.5rem;
     overflow-x: auto;
@@ -225,13 +302,13 @@ header {
 }
 
 .filter-btn {
-    padding: 0.6rem 1.1rem;
+    padding: 0.5rem 1rem;
     border-radius: 10px;
     border: 1px solid var(--border-color);
     background-color: rgba(255, 255, 255, 0.02);
     color: var(--text-secondary);
     cursor: pointer;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     font-weight: 500;
     white-space: nowrap;
     backdrop-filter: blur(var(--glass-blur));
@@ -239,18 +316,314 @@ header {
 }
 
 .filter-btn:hover {
-    background-color: rgba(255, 255, 255, 0.06);
+    background-color: rgba(255, 255, 255, 0.05);
     color: var(--text-primary);
 }
 
 .filter-btn.active {
-    background: linear-gradient(135deg, rgba(var(--accent-blue-rgb), 0.15), rgba(139, 92, 246, 0.15));
-    border-color: rgba(var(--accent-blue-rgb), 0.4);
-    color: var(--text-primary);
-    box-shadow: 0 4px 12px rgba(var(--accent-blue-rgb), 0.1);
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: var(--bg-primary);
+    font-weight: 600;
 }
 
-/* Statistics summary */
+/* Widgets Area & Custom Widgets */
+.widgets-area {
+    margin-bottom: 2.5rem;
+}
+
+.widget-header {
+    margin-bottom: 1rem;
+}
+
+.widget-header h3 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    color: #ffffff;
+    opacity: 0.95;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 0.8px;
+    border-left: 3px solid var(--accent-blue);
+    padding-left: 0.6rem;
+}
+
+/* Market Widget Grid */
+.market-widget {
+    display: grid;
+    gap: 1rem;
+}
+
+.market-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+}
+
+.market-card {
+    padding: 1.25rem;
+    border-radius: 16px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    backdrop-filter: blur(var(--glass-blur));
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    transition: var(--transition-smooth);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    position: relative;
+}
+
+.market-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(255, 255, 255, 0.15);
+}
+
+.market-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.market-name {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.market-symbol {
+    font-size: 0.68rem;
+    color: var(--text-secondary);
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+.market-price-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 0.2rem;
+}
+
+.market-price {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.market-badge {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+}
+
+.market-indicator {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.indicator-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+}
+
+/* Red/Green Market trends */
+.market-card.trend-up .market-badge {
+    color: var(--accent-green);
+    background-color: rgba(16, 185, 129, 0.12);
+}
+
+.market-card.trend-up .indicator-dot {
+    background-color: var(--accent-green);
+    box-shadow: 0 0 8px var(--accent-green);
+}
+
+.market-card.trend-up .indicator-text {
+    color: var(--accent-green);
+}
+
+.market-card.trend-up:hover {
+    box-shadow: 0 10px 25px rgba(16, 185, 129, 0.1), 0 0 1px 1px rgba(16, 185, 129, 0.1) inset;
+}
+
+.market-card.trend-down .market-badge {
+    color: var(--accent-red);
+    background-color: rgba(239, 68, 68, 0.12);
+}
+
+.market-card.trend-down .indicator-dot {
+    background-color: var(--accent-red);
+    box-shadow: 0 0 8px var(--accent-red);
+}
+
+.market-card.trend-down .indicator-text {
+    color: var(--accent-red);
+}
+
+.market-card.trend-down:hover {
+    box-shadow: 0 10px 25px rgba(239, 68, 68, 0.1), 0 0 1px 1px rgba(239, 68, 68, 0.1) inset;
+}
+
+/* Sports (World Cup) Widget Grid */
+.sports-widget {
+    display: grid;
+    gap: 1rem;
+}
+
+.sports-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+}
+
+.sports-match-card {
+    padding: 1.25rem;
+    border-radius: 18px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    backdrop-filter: blur(var(--glass-blur));
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    transition: var(--transition-smooth);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sports-match-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(255, 255, 255, 0.15);
+}
+
+.match-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.match-stage {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+}
+
+.match-badge {
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.15rem 0.5rem;
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+}
+
+.match-scoreboard {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.03);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+.team-side {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex: 1;
+}
+
+.team-side.text-right {
+    justify-content: flex-end;
+}
+
+.team-flag {
+    font-size: 1.4rem;
+}
+
+.team-name {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.match-score {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.04);
+    padding: 0.2rem 1rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.score-divider {
+    font-size: 1.1rem;
+    opacity: 0.6;
+    color: var(--accent-blue);
+}
+
+.match-footer {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+}
+
+.pulse-dot-sports {
+    width: 6px;
+    height: 6px;
+    background-color: var(--text-secondary);
+    border-radius: 50%;
+}
+
+/* Live match pulse glow */
+.sports-match-card.live-match {
+    border-color: rgba(var(--accent-blue-rgb), 0.3);
+    box-shadow: 0 6px 20px rgba(var(--accent-blue-rgb), 0.1);
+}
+
+.sports-match-card.live-match .match-badge {
+    background-color: rgba(59, 130, 246, 0.12);
+    border-color: rgba(59, 130, 246, 0.3);
+    color: var(--accent-blue);
+}
+
+.sports-match-card.live-match .pulse-dot-sports {
+    background-color: var(--accent-green);
+    box-shadow: 0 0 6px var(--accent-green);
+    animation: sportsPulse 1.2s infinite;
+}
+
+.sports-match-card.live-match .match-status {
+    color: var(--accent-green);
+}
+
+@keyframes sportsPulse {
+    0% { transform: scale(1); opacity: 0.8; }
+    50% { transform: scale(1.6); opacity: 1; }
+    100% { transform: scale(1); opacity: 0.8; }
+}
+
+/* Statistics cards summary */
 .summary-cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -271,9 +644,9 @@ header {
 }
 
 .card-label {
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     color: var(--text-secondary);
-    font-weight: 500;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.5px;
 }
@@ -347,22 +720,53 @@ header {
     border: 1px solid var(--border-color);
 }
 
-.badge-source.bbc-world-news {
-    color: #ff5252;
-    background-color: rgba(255, 82, 82, 0.08);
-    border-color: rgba(255, 82, 82, 0.2);
+/* Customize badges styles */
+.badge-source.bbc-business-en {
+    color: #3b82f6;
+    background-color: rgba(59, 130, 246, 0.08);
+    border-color: rgba(59, 130, 246, 0.2);
 }
 
-.badge-source.bbc-中文 {
-    color: #ffd740;
-    background-color: rgba(255, 215, 64, 0.08);
-    border-color: rgba(255, 215, 64, 0.2);
+.badge-source.rthk-财经-zh {
+    color: #10b981;
+    background-color: rgba(16, 185, 129, 0.08);
+    border-color: rgba(16, 185, 129, 0.2);
 }
 
-.badge-source.hacker-news {
-    color: #ff6e40;
-    background-color: rgba(255, 110, 64, 0.08);
-    border-color: rgba(255, 110, 64, 0.2);
+.badge-source.bbc-sports-football-en {
+    color: #eab308;
+    background-color: rgba(234, 179, 8, 0.08);
+    border-color: rgba(234, 179, 8, 0.2);
+}
+
+.badge-source.rthk-体育-zh {
+    color: #ec4899;
+    background-color: rgba(236, 72, 153, 0.08);
+    border-color: rgba(236, 72, 153, 0.2);
+}
+
+.badge-source.hacker-news-en {
+    color: #f97316;
+    background-color: rgba(249, 115, 22, 0.08);
+    border-color: rgba(249, 115, 22, 0.2);
+}
+
+.badge-source.solidot-zh {
+    color: #06b6d4;
+    background-color: rgba(6, 182, 212, 0.08);
+    border-color: rgba(6, 182, 212, 0.2);
+}
+
+.badge-source.bbc-entertainment-en {
+    color: #a855f7;
+    background-color: rgba(168, 85, 247, 0.08);
+    border-color: rgba(168, 85, 247, 0.2);
+}
+
+.badge-source.bbc-娱乐-zh {
+    color: #f43f5e;
+    background-color: rgba(244, 63, 94, 0.08);
+    border-color: rgba(244, 63, 94, 0.2);
 }
 
 .card-date {
@@ -480,8 +884,21 @@ footer strong {
     color: var(--accent-blue);
 }
 
-/* Responsive */
+/* Responsive Styles */
+@media (max-width: 1024px) {
+    .market-cards-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .sports-cards-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
 @media (max-width: 768px) {
+    .nav-tabs {
+        grid-template-columns: repeat(2, 1fr);
+        border-radius: 12px;
+    }
     .controls {
         flex-direction: column;
         align-items: stretch;
@@ -494,7 +911,17 @@ footer strong {
         align-items: flex-start;
         gap: 1rem;
     }
+    .header-actions {
+        width: 100%;
+        justify-content: space-between;
+    }
     .summary-cards {
+        grid-template-columns: 1fr;
+    }
+    .market-cards-grid {
+        grid-template-columns: 1fr;
+    }
+    .sports-cards-grid {
         grid-template-columns: 1fr;
     }
 }

@@ -1,32 +1,61 @@
 {
-  "lastUpdated": "2026-06-12T14:12:53.247636",
-  "totalArticles": 108,
+  "lastUpdated": "2026-06-12T14:49:34.833779",
+  "totalArticles": 288,
+  "marketData": [
+    {
+      "key": "SP500",
+      "symbol": "^GSPC",
+      "name_cn": "标普 500 指数",
+      "name_en": "S&P 500",
+      "price": 7394.3,
+      "change": 127.31,
+      "changePercent": 1.75
+    },
+    {
+      "key": "NASDAQ",
+      "symbol": "^IXIC",
+      "name_cn": "纳斯达克综合指数",
+      "name_en": "Nasdaq Composite",
+      "price": 25809.66,
+      "change": 640.16,
+      "changePercent": 2.54
+    },
+    {
+      "key": "GOLD",
+      "symbol": "GC=F",
+      "name_cn": "黄金期货 (COMEX)",
+      "name_en": "Gold Futures",
+      "price": 4200.5,
+      "change": 86.5,
+      "changePercent": 2.1
+    },
+    {
+      "key": "BTC",
+      "symbol": "BTC-USD",
+      "name_cn": "比特币 (USD)",
+      "name_en": "Bitcoin",
+      "price": 62893.87,
+      "change": -659.21,
+      "changePercent": -1.04
+    }
+  ],
   "articles": [
     {
-      "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-      "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
-      "description": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
-      "pubDate": "Fri, 12 Jun 2026 05:53:19 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "UK economy contracts as Iran war impact felt",
+      "link": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+      "description": "The contraction in April comes after the economy saw stronger than expected growth in March.",
+      "pubDate": "Fri, 12 Jun 2026 06:32:45 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-      "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
-      "pubDate": "Thu, 11 Jun 2026 20:22:16 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
-      "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
-      "description": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
-      "pubDate": "Fri, 12 Jun 2026 00:45:20 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch",
+      "link": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
+      "description": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
+      "pubDate": "Thu, 11 Jun 2026 23:30:52 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
@@ -34,233 +63,80 @@
       "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
       "description": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
       "pubDate": "Thu, 11 Jun 2026 23:07:52 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-      "link": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
-      "description": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
-      "pubDate": "Fri, 12 Jun 2026 05:01:48 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "My friends always want to split the bill equally, how do I say no?",
+      "link": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
+      "description": "It is never easy to speak up when a fellow diner says \"let's just divide it!\"",
+      "pubDate": "Thu, 11 Jun 2026 23:00:29 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Deadly Sudan drone strike targets funeral procession",
-      "link": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
-      "description": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
-      "pubDate": "Thu, 11 Jun 2026 15:57:04 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "Ryanair investigated over charging parents to sit with children",
+      "link": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
+      "description": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
+      "pubDate": "Thu, 11 Jun 2026 16:58:39 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
-      "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "description": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium. ",
-      "pubDate": "Thu, 11 Jun 2026 23:41:14 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "India's 'blue gold' starts a new drinks industry",
+      "link": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
+      "description": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
+      "pubDate": "Thu, 11 Jun 2026 23:01:48 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
-      "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
-      "description": "Nigeria is the latest African state to repatriate citizens following reports of xenophobic attacks.",
-      "pubDate": "Thu, 11 Jun 2026 16:25:17 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+      "link": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+      "description": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
+      "pubDate": "Wed, 10 Jun 2026 23:04:46 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Artan to referee Uefa Super Cup after losing World Cup role",
-      "link": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
-      "description": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot at the World Cup.",
-      "pubDate": "Thu, 11 Jun 2026 14:24:58 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
+      "link": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss",
+      "description": "Peter Kyle's comments come as the government sets out how it would back British technology companies.",
+      "pubDate": "Wed, 10 Jun 2026 23:01:38 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
-      "link": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
-      "description": "The Pope is appealing for a humane approach and respectful welcome for migrants seeking a better life.  ",
-      "pubDate": "Thu, 11 Jun 2026 17:04:16 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "SpaceX IPO: Preparing for the biggest liftoff yet?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8gld?at_medium=RSS&at_campaign=rss",
+      "description": "It’s not just about rockets: what SpaceX does and why its IPO matters",
+      "pubDate": "Wed, 10 Jun 2026 20:30:00 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-      "link": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
-      "description": "Wednesday's result means the team are now just one win away from a famous Finals win.",
-      "pubDate": "Thu, 11 Jun 2026 11:58:14 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "Villagers take fight against Lidl store plans to Welsh government",
+      "link": "https://www.bbc.com/news/articles/c78y55dkny3o?at_medium=RSS&at_campaign=rss",
+      "description": "Residents in the area do not want a store on land separating Llantwit Major and Llanmaes.",
+      "pubDate": "Thu, 11 Jun 2026 18:07:30 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
-      "link": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
-      "description": "The pop star discusses the difficulty of writing happy songs, and her Glastonbury anxiety attack.",
-      "pubDate": "Wed, 10 Jun 2026 23:09:25 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
-      "link": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss",
-      "description": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study.",
-      "pubDate": "Thu, 11 Jun 2026 15:02:34 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Thai court sentences two men to death over Bangkok shrine bombing ",
-      "link": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss",
-      "description": "Twenty people died and 120 others were injured in the explosion at the Erawan shrine 11 years ago.",
-      "pubDate": "Thu, 11 Jun 2026 06:45:10 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "French singer Patrick Bruel under formal investigation for rape",
-      "link": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
-      "description": "Bruel was released from custody under judicial supervision while an examining magistrate looks more deeply into the case.",
-      "pubDate": "Thu, 11 Jun 2026 08:29:57 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "The furious dispute over what caused Air India flight 171 to crash",
-      "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-      "description": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days. ",
-      "pubDate": "Wed, 10 Jun 2026 23:10:11 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
-      "link": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
-      "description": "The US vice-president says the Israeli leader \"aggressively asserts\" his country's interests, but they do not always align with those of the US.",
-      "pubDate": "Thu, 11 Jun 2026 10:26:59 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Israeli strikes in southern Lebanon kill 17, reports say",
-      "link": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
-      "description": "Nine of them were killed in a series of attacks in the town of Tayr Debba, according to Lebanon's state news agency.",
-      "pubDate": "Wed, 10 Jun 2026 14:44:49 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Whale graveyard dating back five million years discovered",
-      "link": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
-      "description": "The Indian Ocean site is \"far beyond anything we had imagined\", one researcher says.",
-      "pubDate": "Wed, 10 Jun 2026 18:24:09 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated' ",
-      "link": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
-      "description": "The Microsoft co-founder spent hours talking to lawmakers behind closed doors, where he also said Epstein used his marital infidelities to pressure him.",
-      "pubDate": "Wed, 10 Jun 2026 19:31:24 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
-      "link": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
-      "description": "Thr ruling overturns a lower court's decision on Monday ordering the release of the crown princess's 29-year-old son.",
-      "pubDate": "Wed, 10 Jun 2026 15:00:45 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
-      "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
-      "description": "The fresh strikes come after weeks of relative calm in the restive border region between the two countries.",
-      "pubDate": "Wed, 10 Jun 2026 15:31:15 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
-      "link": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss",
-      "description": "Bases across Iran have been hit by US strikes, with experts identifying damage to jets and warships. ",
-      "pubDate": "Thu, 11 Jun 2026 23:37:15 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "The World Cup of adverts: How brands are competing to entertain, not simply sell",
-      "link": "https://www.bbc.com/news/articles/c992v43m71do?at_medium=RSS&at_campaign=rss",
-      "description": "Kim Kardashian, Timothée Chalamet and Susan Boyle feature in ambitious ads ahead of the World Cup.",
-      "pubDate": "Fri, 12 Jun 2026 04:18:53 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Ex-UK political aide Steve Hilton pledges 'common sense' overhaul if elected California governor",
-      "link": "https://www.bbc.com/news/articles/cd95x25e2nqo?at_medium=RSS&at_campaign=rss",
-      "description": "The Trump-backed candidate is running as a Republican in the deeply liberal state on a platform that he says isn't beholden to party ideology.",
-      "pubDate": "Fri, 12 Jun 2026 05:02:15 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Air India crash families' year-long battle to identify remains of victims",
-      "link": "https://www.bbc.com/news/articles/c15y9g2ndkno?at_medium=RSS&at_campaign=rss",
-      "description": "Relatives urge Indian authorities for answers after receiving the misidentified, and in one case mixed, remains of their loved ones.",
-      "pubDate": "Thu, 11 Jun 2026 23:33:40 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "What we know about US sea drone used in helicopter crew rescue mission",
-      "link": "https://www.bbc.com/news/articles/cx2xvnd5eqwo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify examines what we know about the drone boat and how the mission took place.",
-      "pubDate": "Thu, 11 Jun 2026 11:12:44 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "An Everest guide's miraculous survival raises questions for tourism industry",
-      "link": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
-      "description": "Why was a cook leading clients up the world's highest peak? And why was he left to rescue himself?",
-      "pubDate": "Wed, 10 Jun 2026 22:17:09 GMT",
-      "source": "BBC World News",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "title": "Family of British toddler criticises police as Australian inquiry into cold case murders begins",
-      "link": "https://www.bbc.com/news/articles/c0rygl7y1l0o?at_medium=RSS&at_campaign=rss",
-      "description": "NSW inquiry will also examine whether notorious serial killer Ivan Milat was responsible for more murders.",
-      "pubDate": "Thu, 11 Jun 2026 04:13:58 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
+      "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "description": "The US president later said he had meant that he actually loved that inflation was not higher.",
+      "pubDate": "Thu, 11 Jun 2026 09:14:13 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
@@ -268,35 +144,116 @@
       "link": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
       "description": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
       "pubDate": "Thu, 11 Jun 2026 05:02:29 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
-      "link": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
-      "description": "After more than a century of sharing the main entrance, Canadians were barred from using the library's US-side door by the Trump administration in 2025.",
-      "pubDate": "Wed, 10 Jun 2026 23:54:51 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "Korea fines e-commerce giant $400m over data breach affecting millions",
+      "link": "https://www.bbc.com/news/articles/cvgj4rgz2n2o?at_medium=RSS&at_campaign=rss",
+      "description": "The record fine comes after around 37.5 million users had their private data exposed.",
+      "pubDate": "Thu, 11 Jun 2026 07:32:57 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "'I will never get over watching my home burn': Belfast residents reel after night of unrest",
-      "link": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
-      "description": "A night of disorder in Belfast saw people forced to flee their homes, in protests that followed a knife attack in the north of the city.",
-      "pubDate": "Wed, 10 Jun 2026 18:20:54 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "World Cup expected to be the biggest betting event in history",
+      "link": "https://www.bbc.com/news/articles/cwydgwdx83yo?at_medium=RSS&at_campaign=rss",
+      "description": "The expansion of the number of games being played is set to drive a surge in the amount of bets placed on this year's World Cup.",
+      "pubDate": "Wed, 10 Jun 2026 18:39:31 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Air India crash pilot's father vows to defend son's reputation",
-      "link": "https://www.bbc.com/news/articles/cj0gj911060o?at_medium=RSS&at_campaign=rss",
-      "description": "Investigators are expected to soon release an update on the crash, which killed 260 people last year.",
-      "pubDate": "Wed, 10 Jun 2026 12:37:19 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "Bill debt soars but many don't know help is available",
+      "link": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
+      "description": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
+      "pubDate": "Tue, 09 Jun 2026 23:03:32 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Illegal mini-marts to shut for up to 12 months under law change prompted by BBC",
+      "link": "https://www.bbc.com/news/articles/cqj1rkqqrgro?at_medium=RSS&at_campaign=rss",
+      "description": "Under current rules, shops breaking the law can only be closed for up to six months in England and Wales.",
+      "pubDate": "Wed, 10 Jun 2026 04:17:02 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "description": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+      "pubDate": "Tue, 09 Jun 2026 22:00:24 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "How to enjoy the World Cup - and keep your boss on side",
+      "link": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss",
+      "description": "Football fans and bosses share their strategies to balance late night kick offs with work the next day.",
+      "pubDate": "Tue, 09 Jun 2026 23:03:08 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "UK pint prices up 36% since last World Cup – here's why",
+      "link": "https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss",
+      "description": "UK pint prices are up 36% since the last World Cup. We look at why beer now costs so much more.",
+      "pubDate": "Wed, 10 Jun 2026 05:23:36 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Beauty Pie LED mask ad banned over misleading anti-wrinkle claim",
+      "link": "https://www.bbc.com/news/articles/c892lj7xn02o?at_medium=RSS&at_campaign=rss",
+      "description": "The mask is not \"clinically proven to reduce wrinkles in four weeks\", the advertising watchdog finds.",
+      "pubDate": "Tue, 09 Jun 2026 23:03:20 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Kalshi to make some users reveal job details to tackle insider trading",
+      "link": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
+      "description": "After issues with insider trading, the prediction betting platform is adding new rules.",
+      "pubDate": "Tue, 09 Jun 2026 22:32:31 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "description": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
+      "pubDate": "Tue, 09 Jun 2026 18:35:59 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
+      "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "description": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
+      "pubDate": "Tue, 09 Jun 2026 08:02:43 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Driving test booking rules tightened after thousands of no shows",
+      "link": "https://www.bbc.com/news/articles/c4gyel9n02zo?at_medium=RSS&at_campaign=rss",
+      "description": "Learner drivers can only swap their test to the three centres nearest to their original booking.",
+      "pubDate": "Mon, 08 Jun 2026 23:05:32 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
@@ -304,413 +261,1448 @@
       "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
       "description": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.",
       "pubDate": "Thu, 11 Jun 2026 14:13:32 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
-      "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.   ",
-      "pubDate": "Tue, 09 Jun 2026 21:13:17 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "US adds BYD to list of firms with alleged Chinese military ties",
+      "link": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
+      "description": "The Pentagon list warns US firms of risks linked to working with flagged Chinese companies.",
+      "pubDate": "Tue, 09 Jun 2026 07:20:59 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-      "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
-      "pubDate": "Thu, 11 Jun 2026 20:22:16 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "How driving test booking is changing for learner drivers",
+      "link": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss",
+      "description": "From 12 May, only learner drivers can book their own tests, not instructors.",
+      "pubDate": "Mon, 08 Jun 2026 23:06:07 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
-      "link": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Will Grant got access inside the renovated venue ahead of the first game of the tournament.",
-      "pubDate": "Thu, 11 Jun 2026 08:08:57 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "New candy stores are popping up across NYC. Why?",
+      "link": "https://www.bbc.com/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
+      "description": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
+      "pubDate": "Wed, 10 Jun 2026 23:01:54 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "What we learned from Bill Gates' deposition on Epstein",
-      "link": "https://www.bbc.com/news/videos/cly828v3l24o?at_medium=RSS&at_campaign=rss",
-      "description": "The billionaire testified to Congress about his relationship with the late convicted sex offender.",
-      "pubDate": "Thu, 11 Jun 2026 00:07:41 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "Could humanoid robots be heading for the battlefield?",
+      "link": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+      "description": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
+      "pubDate": "Mon, 08 Jun 2026 23:06:30 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
-      "link": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
-      "description": "Pope Leo XIV says Barcelona's iconic Sagrada Família is a masterpiece of \"stones, colours and light\" during his visit to Spain.",
-      "pubDate": "Wed, 10 Jun 2026 21:52:09 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+      "link": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
+      "description": "The European country had 9.1 million international visitors in April, the most ever for that month.",
+      "pubDate": "Sun, 07 Jun 2026 23:01:04 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "Watch: BBC goes into jungle with Myanmar's civil war rebels",
-      "link": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC’s Quentin Sommerville travels to Myanmar - without the permission of the authorities - to meet a group of rebel fighters.",
-      "pubDate": "Tue, 09 Jun 2026 21:04:20 GMT",
-      "source": "BBC World News",
-      "category": "World",
+      "title": "The ancient trick making food waste useful and tasty",
+      "link": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
+      "description": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
+      "pubDate": "Thu, 04 Jun 2026 23:10:26 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
       "lang": "en"
     },
     {
-      "title": "世界盃墨西哥揭幕：夏奇拉熱鬧開唱，場外數百人抗議",
-      "link": "https://www.bbc.com/zhongwen/articles/c1eyljze87xo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "在墨西哥城的開幕典禮星光雲集，然而阿茲特克體育場周邊也出現警方與抗議者之間的零星衝突。",
-      "pubDate": "Fri, 12 Jun 2026 02:06:59 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "'By the grace of God': Miners dig on as lab-grown diamonds change market",
+      "link": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss",
+      "description": "The rising popularity of lab-grown diamonds heaps pressure on those hunting for the natural gems.",
+      "pubDate": "Wed, 03 Jun 2026 23:00:45 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "How 'confused' AI rollout hurts firms and baffles staff",
+      "link": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+      "description": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+      "pubDate": "Mon, 01 Jun 2026 23:05:11 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Caribbean hot sauce producers warn of shortages and higher prices",
+      "link": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
+      "description": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
+      "pubDate": "Sun, 31 May 2026 23:19:32 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Humanoid robots 'the future' of car making, says BMW",
+      "link": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "description": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
+      "pubDate": "Thu, 28 May 2026 23:36:45 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Is 'out of control' US tipping culture spreading overseas?",
+      "link": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss",
+      "description": "With US waiting staff getting cross at receiving less than 20%, tips are also on the rise elsewhere.",
+      "pubDate": "Wed, 27 May 2026 23:14:43 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "The rise of the fruit that tastes like custard",
+      "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+      "description": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
+      "pubDate": "Wed, 27 May 2026 10:58:45 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
+      "link": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
+      "description": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
+      "pubDate": "Sun, 24 May 2026 23:13:50 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
+      "link": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss",
+      "description": "Six supermarket brand eggs cost £1 in 2022. How much are they now, why have they gone up, and is anyone profiteering?",
+      "pubDate": "Sun, 24 May 2026 01:02:55 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Love factually: Dating start-ups promise to cut the cheats",
+      "link": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
+      "description": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
+      "pubDate": "Thu, 21 May 2026 23:14:18 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "The fight against foreign developers buying Caribbean beaches",
+      "link": "https://www.bbc.com/news/articles/c62jp09p0l4o?at_medium=RSS&at_campaign=rss",
+      "description": "Campaigners in Barbuda, Grenada and Jamaica say they can no longer access their coastlines.",
+      "pubDate": "Wed, 20 May 2026 23:19:14 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Robo-top: The machines that could make your next t-shirt",
+      "link": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+      "description": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
+      "pubDate": "Mon, 18 May 2026 23:04:14 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Why does Amazon have no Western rivals?",
+      "link": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
+      "description": "The internet giant dwarfs other online retailers on both sides of the Atlantic.",
+      "pubDate": "Mon, 18 May 2026 07:25:14 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "My friends always want to split the bill equally, how do I say no?",
+      "link": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
+      "description": "It is never easy to speak up when a fellow diner says \"let's just divide it!\"",
+      "pubDate": "Thu, 11 Jun 2026 23:00:29 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Why does your World Cup pint cost so much this time round?",
+      "link": "https://www.bbc.com/news/videos/ce8kn5dpleko?at_medium=RSS&at_campaign=rss",
+      "description": "Pub landlords explain why they have no choice but to charge more.",
+      "pubDate": "Thu, 11 Jun 2026 16:21:15 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Dozens of crisis payments handed out by council",
+      "link": "https://www.bbc.com/news/articles/c8e2wrneeg6o?at_medium=RSS&at_campaign=rss",
+      "description": "Many of the completed payments have gone to low income families with surging heating oil costs.",
+      "pubDate": "Thu, 11 Jun 2026 13:56:35 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Paper plant closure fears spark community protest",
+      "link": "https://www.bbc.com/news/articles/c4gyl04ek7mo?at_medium=RSS&at_campaign=rss",
+      "description": "Workers and families held a demonstration with 167 jobs at risk at the site in Launceston.",
+      "pubDate": "Thu, 11 Jun 2026 13:22:27 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Will UK interest rates go up?",
+      "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "description": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "pubDate": "Thu, 11 Jun 2026 13:07:09 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "The furious dispute over what caused Air India flight 171 to crash",
+      "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+      "description": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+      "pubDate": "Wed, 10 Jun 2026 23:10:11 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "How the High Street became a window on our political instability",
+      "link": "https://www.bbc.com/news/articles/cq5p59286v5o?at_medium=RSS&at_campaign=rss",
+      "description": "High Streets have declined in recent years. What does this tell us about the UK?",
+      "pubDate": "Sun, 07 Jun 2026 23:00:04 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "The £5 coffee that tells a story of global economic turmoil",
+      "link": "https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
+      "description": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
+      "pubDate": "Thu, 28 May 2026 06:44:47 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "The threat to summer holidays looming from jet fuel shortages",
+      "link": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss",
+      "description": "What impact might shortages have on our summer holidays - and what could be done about it?",
+      "pubDate": "Sun, 03 May 2026 23:03:41 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Scammers are becoming ever more sophisticated - this is what the fightback looks like",
+      "link": "https://www.bbc.com/news/articles/cj60pl5g4z4o?at_medium=RSS&at_campaign=rss",
+      "description": "Scams have exploded over the last few years. Can countries and companies come together to turn the tables on the scammers?",
+      "pubDate": "Sat, 18 Apr 2026 23:02:48 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
+      "link": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC's Michelle Fleury spoke to Tom Mueller, who was one of the company's founders alongside Elon Musk in 2002.",
+      "pubDate": "Fri, 12 Jun 2026 06:25:10 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Why does your World Cup pint cost so much this time round?",
+      "link": "https://www.bbc.com/news/videos/ce8kn5dpleko?at_medium=RSS&at_campaign=rss",
+      "description": "Pub landlords explain why they have no choice but to charge more.",
+      "pubDate": "Thu, 11 Jun 2026 16:21:15 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Trump: 'I love the inflation'",
+      "link": "https://www.bbc.com/news/videos/c0rygjggl7zo?at_medium=RSS&at_campaign=rss",
+      "description": "The president also revealed that the US is 'taking out' millions of barrels of oil from Iran, saying Tehran didn't know 'until right now'.",
+      "pubDate": "Wed, 10 Jun 2026 17:05:20 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "Debenhams boss on the daily habit he swears by",
+      "link": "https://www.bbc.com/news/videos/c9d2lxeg3xjo?at_medium=RSS&at_campaign=rss",
+      "description": "Dan Finley has overseen the successful turnaround of Debenhams department store. He shares the best advice he's received and some of the keys to his success.",
+      "pubDate": "Wed, 10 Jun 2026 10:20:20 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "The Interview",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct98gz?at_medium=RSS&at_campaign=rss",
+      "description": "Charles Gitonga speaks to entrepreneur Mohammed Dewji about being a billionaire in Africa",
+      "pubDate": "Tue, 09 Jun 2026 23:30:00 GMT",
+      "source": "BBC Business (EN)",
+      "category": "finance",
+      "lang": "en"
+    },
+    {
+      "title": "台股本周累跌2%",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858254-20260612.htm",
+      "description": "台灣股市升逾2%收市，加權指數收市報44169點，升1019點，升幅2.36%。  全星期計，台股累計跌2%。    編輯：宋家樑",
+      "pubDate": "Fri, 12 Jun 2026 14:00:54 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "特朗普稱伊朗停戰協議接近完成，德黑蘭稱未有定案",
-      "link": "https://www.bbc.com/zhongwen/articles/cr7xvmrjkyeo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "美國總統表示已達成一項「重大和解」以結束衝突；伊朗則稱相關達成協議的報導「純屬猜測」。",
-      "pubDate": "Fri, 12 Jun 2026 05:05:08 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "恒指下午開市初段繼續造好",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858253-20260612.htm",
+      "description": "港股下午開市初段造好，恒生指數較早時報24726點，升477點，升幅1.97%。  科技指數報4729點，升73點，升幅1.58%。    編輯：宋家樑",
+      "pubDate": "Fri, 12 Jun 2026 13:16:39 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "香港反修例示威七週年：政府推出「正向教育」活動，當年被捕的年輕人會買賬嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c3629p9n6ejo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "香港保安局推出的「特別項目」，保安局局長鄧炳強稱，是為未被檢控的人士提供「更生機會」。",
-      "pubDate": "Fri, 12 Jun 2026 01:57:36 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "分析料歐洲央行或到12月才再加息",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858247-20260612.htm",
+      "description": "歐洲央行加息0.25厘，是近3年來首次。國際貨幣基金組織（IMF）預計，歐元區今年全年累計加息可能達0.5厘，意味年內仍有一次加息機會。明年可能加息一次。  受到中東戰爭影響，IMF下調今年歐元區經濟增長預測至0.9%，並將通脹率預測上調至2.8%。  光大證券國際環球市場及外滙策略師湯麗鴻相信，歐洲央行7月同9月會議將按兵不動，最快要到12月才有加息機會。  她指，今次加息由於油價高企推高輸入性通脹，歐元區經濟本身未有條件加息，不會短期內連續加息，歐洲央行亦可能觀察日本央行和美國聯儲局的利率取向，再決定本身利率走勢。    編輯：宋家樑",
+      "pubDate": "Fri, 12 Jun 2026 12:36:38 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但你又可以怎麼樣？」",
-      "link": "https://www.bbc.com/zhongwen/articles/c621r56739no/trad?at_medium=RSS&at_campaign=rss",
-      "description": "日前有網絡影片顯示，一名籃球教練抓着學生的手掌摑其面部，圍觀學生和助教均無阻止，引發討論。事實上，香港早已立法禁止老師體罰學生。但在競技運動上，是怎樣的權力架構和空間，仍然默許體罰存在？",
-      "pubDate": "Thu, 11 Jun 2026 08:45:04 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "黃天祐：科技發展應以社會福祉為依歸　絕非取代人類",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858239-20260612.htm",
+      "description": "證監會主席黃天祐表示，當前世界格局深刻調整，地緣政治風險上升，面對種種不確定，要以高質量發展及監管制度的確定性，應對宏觀經濟環境不確定。  黃天祐出席財新夏季峰會時致辭指，人工智能正重塑全球經濟與金融格局，但強調在推動AI賦能發展時，要以人為本，穩健創新。他說，科技發展應以社會福祉為依歸，絕非取代人類，更不可破壞人類價值觀與社會秩序，關鍵在於使用工具的人，是否具備良好判斷力、價值觀與責任意識。  黃天祐強調，香港金融服務業核心競爭力從來不在於技術本身，而是深厚的人才基礎，又期望業界充分用好AI，發揮乘數效應，提升人才效能，令人力更專注於戰略規劃、風險判斷、倫理決策等高價值領域，最終全面提升香港市場的全球競爭力。  他又說，高質量發展從來不是盲目追求快，而是在堅守市場信任與風險防控基礎上，走出行穩致遠之路。他以「潛龍勿用」為比喻，要將制度築牢、將風險管好，積蓄創新發展的動能。  他表示，近年香港推進以區塊鏈為核心的資本市場基建升級，提升交易速度、計算效率、系統安全及投資者保障，在清晰監管框架下，香港數字資產生態衍生強勁活力，充分證明有效監管從來都不是發展障礙，而是新增長的強大催化劑。  他強調，證監會重視AI負責任應用，當好市場「守護者」與「促進者」，推動發展、鼓勵創新，絕不放鬆底線要求，堅持「相同業務、相同風險、相同規則」的原則。    編輯：宋家樑",
+      "pubDate": "Fri, 12 Jun 2026 12:27:37 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "泰國當局判處兩維吾爾人死刑　BBC記者回憶當年的曼谷四面佛爆炸案",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yz48282n4o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "2015年造成20人死亡、120人受傷的泰國曼谷四面佛爆炸案一審判刑，當年遇難者中包括七名中國大陸與香港居民。",
-      "pubDate": "Fri, 12 Jun 2026 02:18:52 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "恒指半日升491點　金融股上升",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858237-20260612.htm",
+      "description": "港股連跌7日後反彈，恒生指數臨近中午升幅擴大至逾500點，高見24762點，中午收市報24740點，升491點，升幅2%，半日主板成交額逾1567億元。  科技指數在4700點以上徘徊，半日報4735點，升幅1.7%。ATMXJ多數上升，京東集團和阿里巴巴升近3%。  金融股上升，中人壽急升近7%，滙控升逾2%，四大國有商業銀行亦升2%以上，友邦和港交所升近1%至逾2%。  周大福公布業績後急升逾17%，是升幅最大藍籌股。其餘金屬相關股份亦向上，洛陽鉬業升逾12%，紫金礦業和老鋪黃金升逾8%。  部分中資電信股逆市向下，中電信和中聯通跌逾1%，中移動靠穩。    編輯：宋家樑",
+      "pubDate": "Fri, 12 Jun 2026 12:16:13 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "傳說中的「亞洲蹲」，竟對我們的健康至關重要？",
-      "link": "https://www.bbc.com/zhongwen/articles/ckg07yrjg98o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "遊客嘗試做出亞洲式深蹲的影片不斷在網路上出現——但專家指出，這種姿勢引發的關注，其實反映出一個更大的問題：隨著年齡增長，維持良好身體活動能力的重要性。",
-      "pubDate": "Wed, 10 Jun 2026 08:49:31 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "李家超冀樓市穩健發展　確保不大升大跌",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858236-20260612.htm",
+      "description": "行政長官李家超表示，希望樓市穩健發展，透過工資令每個市民收入增加，按自己需要及意願決定是否買樓。他強調從來無要求地價多少，指地價是按市場規律，看供求問題，要確保不大升大跌。  他接受大公文匯傳媒集團訪問說，本港曾經出現地產低谷帶出一些問題，樓市炒得熱時有「辣招」， 低谷時則取消「辣招」。   李家超說，民生問題重中之重是房屋問題，他上任時公屋輪候時間最高為6.1年，在引入簡約公屋，同時加大公屋建設量後，整體公屋供應量較他上任時加大了八成；公屋綜合輪候時間最近已縮短至4.7年。    編輯：黃佩珊",
+      "pubDate": "Fri, 12 Jun 2026 12:04:42 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "美加墨世界盃規模空前，卻因政治因素而代價高昂",
-      "link": "https://www.bbc.com/zhongwen/articles/cj3gm6884eyo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "有一點似乎肯定：在賽場的精彩以外，這場規模空前的世界盃，可能會成為史上最具爭議的賽事之一。",
-      "pubDate": "Thu, 11 Jun 2026 06:30:44 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "內地股市半日升逾1%",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858233-20260612.htm",
+      "description": "滬深股市半日升逾1%，貴金屬、工業金屬、航空裝備等股份上升；電子化學品、非金屬材料、半導體材料相關股份下跌。  上證綜合指數重上4000點以上關口，半日收市報4049點，升62點，升幅1.56%。  深證成份指數升穿15000點，上午收市報15103點，升251點，升幅1.69%。  創業板指數報3859點，升48點，升幅1.27%。    編輯：宋家樑",
+      "pubDate": "Fri, 12 Jun 2026 11:41:18 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
-      "link": "https://www.bbc.com/zhongwen/articles/cpv3zj4lepvo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "一部投資僅1400萬人民幣的中國潮汕方言電影《給阿嬤的情書》，以素人演員與樸實敘事成為今年大陸票房黑馬，累計已突破16億。故事聚焦潮汕阿嬤半生守候在海外的丈夫，孫子因債務遠赴泰國尋親，意外揭開跨越70多年的僑批秘密。這部電影為何大賣?",
-      "pubDate": "Thu, 11 Jun 2026 00:20:22 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "陳茂波：相信五年規劃可為香港未來發展謀劃　讓大家有較明確方向",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858228-20260612.htm",
+      "description": "政府下周一將就本港首份五年規劃展開為期兩個月公眾諮詢，財政司司長陳茂波表示，對香港發展前景樂觀，儘管中間有不同挑戰，但只要目標清楚、方向鎖定、同心協力，會開創更好的未來。  陳茂波出席一個財經峰會時表示，期待匯聚各方智慧，與市場共同設計香港未來發展的路線。他相信五年規劃可為香港未來發展謀劃，讓大家有較明確方向，有決心推動發展。他認為香港除了作為橋樑，將內地跟國際連接起來，亦要增值、促進香港本身發展，包括與大灣區其他兄弟城市聯動、優勢互補，讓香港除了作為國際金融中心，亦擁有先進製造業及製造能力，形容是可以等於紐約跟矽谷加起來再多一點。  他表示，政府編製五年規劃時要考慮外部環境、主要未來影響全球經濟與地緣政治的方向，例如地緣政治、科技變革等大趨勢。他說，香港要發展好，必須「背靠祖國」，用好自己優勢，將香港發展方向與國家發展戰略對接好，令國家更易支持香港。他指出，香港最核心優勢包括在「一國兩制」下有不同法制、國際化等，不但可以服務國家發展大局，同時可對接國家與國際社會交流。  另外，陳茂波認為金融與創科的雙向發力、相互賦能必然是下一階段發展的重心之一，已順利組成並將召開會議的「AI+與產業發展策略委員會」，目標不是制定個別行業的發展計劃，而是鼓勵創新應用、破除規管障礙，打通跨界別、跨境資源流動，為香港未來的AI發展路線提供頂層設計。他說，政府推行全民AI培訓，除了是為產業培養尖端人才，亦是確保每位市民能駕馭有關技術，成為這場變革的主動參與者，最終目標是技術帶來普遍生產力提升。    編輯：黃佩珊",
+      "pubDate": "Fri, 12 Jun 2026 10:56:35 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "伊朗與美國難以維持停火的四大原因",
-      "link": "https://www.bbc.com/zhongwen/articles/c5yzxn14z3wo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "美國與伊朗4月初達成的停火協議，在新一波地區攻擊後嚴重動搖。特朗普與伊朗互放狠話，衝突升級。專家指出四大原因：伊朗認為停火未解決核心問題、以色列持續軍事行動、升級已成談判策略，以及美國影響力有限。",
-      "pubDate": "Thu, 11 Jun 2026 06:51:27 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "日股半日升逾3%　曾升穿67000點關口",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858227-20260612.htm",
+      "description": "東京股市顯著上升，日經指數半日升2225點，報66442點，升幅3.47%。指數今早曾升至67065點，創1星期新高。    編輯：方嘉莉",
+      "pubDate": "Fri, 12 Jun 2026 10:45:57 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "《嘆春風》與中國「男色經濟」：女性慾望如何變成一門生意？",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g5nnd6v3do/trad?at_medium=RSS&at_campaign=rss",
-      "description": "《嘆春風》的走紅讓女性慾望首次以公開、集體的方式進入公共空間。當女性成為觀看者時，市場也迅速學會了向她們出售「情緒價值」。",
-      "pubDate": "Wed, 10 Jun 2026 23:54:00 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "韓國央行總裁認為有必要適時加息",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858225-20260612.htm",
+      "description": "韓國央行總裁申鉉松表示，隨著中東衝突推高油價，通脹預計將在較長時間內超過目標水平，所以有必要適時加息。  他指出，貨幣政策通常要在各項政策變量之間取捨，但目前這種取捨並不突出，有必要側重於物價穩定，適時上調利率。5月會議後公布的數據亦證實，貨幣政策條件指向明確方向。  韓國5月通脹率達到3.1%，創逾兩年高位，超過市場預期，強化最快下月收緊貨幣政策的理由。    編輯：張詩民",
+      "pubDate": "Fri, 12 Jun 2026 10:40:36 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "印度洋海底發現大面積鯨墓地，可追溯至500多萬年前",
-      "link": "https://www.bbc.com/zhongwen/articles/c07y93jm020o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "印度洋東南部深約7公里處發現了一個長約1200公里的巨大鯨墓地。",
-      "pubDate": "Thu, 11 Jun 2026 05:29:24 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "人行開展3930億元人民幣逆回購　本周淨投放創4個月新高",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858220-20260612.htm",
+      "description": "人民銀行公開市場開展3930億元人民幣7日期逆回購操作，利率維持於1.4厘。  對沖到期量後，單日淨投放1780億元，連續6日淨投放。本周累計淨投放8858億元，創4個月單一星期新高。    編輯：宋家樑",
+      "pubDate": "Fri, 12 Jun 2026 09:57:43 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "《火影忍者》：美國總統特朗普使用動漫角色引發日本輿論反彈",
-      "link": "https://www.bbc.com/zhongwen/articles/crelzy140yno/trad?at_medium=RSS&at_campaign=rss",
-      "description": "特朗普（川普）用《火影忍者》鳴人、《寶可夢》等日本動漫角色宣傳，引發日本網友反彈。近兩萬人連署請願，批評違背角色精神與創作者價值。寶可夢公司已正式發聲。有人批評「別拿我們的英雄搞政治」，但同時也有聲音認為這無傷大雅。",
-      "pubDate": "Thu, 11 Jun 2026 05:18:18 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "滬指初段升逾0.5%　創業板指數升逾2%",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858219-20260612.htm",
+      "description": "滬深股市在開市初段上升，創業板指數升逾2%。  上證綜合指數重上4000點關口，較早時報4009點，升22點，升幅0.55%。  深證成份指數報15087點，升235點，升幅1.59%。  創業板指數報3892點，升80點，升幅2.12%。    編輯：方嘉莉",
+      "pubDate": "Fri, 12 Jun 2026 09:37:22 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "「我感覺更輕鬆，更開放」：誰說老年人不宜做心理治療",
-      "link": "https://www.bbc.com/zhongwen/articles/c892v4lq32wo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "精神分析學創始人佛洛伊德曾認為超過40或50歲後，心理治療效果會下降。但有學者指出，事實上「研究顯示情況正好相反」。",
-      "pubDate": "Thu, 11 Jun 2026 23:37:01 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "恒指競價時段反彈252點　科指升逾1%",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858218-20260612.htm",
+      "description": "港股競價時段反彈，恒生指數報24501點，升252點，升幅1.04%，結束7日跌勢。  科技指數報4713點，升57點，升幅1.24%。    編輯：方嘉莉",
+      "pubDate": "Fri, 12 Jun 2026 09:27:18 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "香港籃球教練體罰爭議 前學員打破沉默",
-      "link": "https://www.bbc.com/zhongwen/articles/cj9gnmkk28ro/trad?at_medium=RSS&at_campaign=rss",
-      "description": "一條香港中學籃球教練在操場掌摑學生的網絡影片，揭開了本地體育界仍然存在的體罰與高壓文化。涉事教練翁金驊已被停職並因涉嫌「普通襲擊」被警方拘捕。多位曾接受其執教的香港大學及中學前球員打破沉默，公開講述自身經歷。",
-      "pubDate": "Thu, 11 Jun 2026 09:58:32 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "人民幣兌美元中間價創近3年半高位",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858217-20260612.htm",
+      "description": "人民幣中間價報6.8109兌1美元，較上日中間價升41點子，創近3年半以來高位。    編輯：方嘉莉",
+      "pubDate": "Fri, 12 Jun 2026 09:23:00 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "球員大腦揭秘：「心流狀態」現代足球的致勝關鍵？",
-      "link": "https://www.bbc.com/zhongwen/articles/cx23nrx02jzo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "四年一度的全球足球盛事又來了，各國頂級球星在美加墨賽場上競逐世界盃。足球在球員腳邊電光火石來回的瞬間，你有想過他們的大腦怎麼運作嗎？在現代足球運動中，勝負差距愈來愈窄，頂尖球隊正轉向神經科學尋求贏球之道。BBC帶你了解揭開足球員的大腦秘密，以及球圈的最新技術。",
-      "pubDate": "Thu, 11 Jun 2026 05:01:10 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "藥明康德對被認定為「中國軍工企業」向美國國防部提出訴訟",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858214-20260612.htm",
+      "description": "藥明康德被美國國防部認定為「中國軍工企業」，並列入有關名單。公司在美國時間星期四在哥倫比亞特區聯邦地區法院，對美國國防部提出訴訟。公司表示，堅信國防部的決定錯誤，缺乏事實依據、適用法規和判例支持。  公司說，為保護客戶、合作夥伴、員工及股東利益，已經向法院請求，宣告國防部將藥明康德認定為「中國軍工企業」的決定無效、作廢，並且不具任何法律效力；撤銷並廢除有關決定，以及將公司從名單移除。    編輯：張詩民",
+      "pubDate": "Fri, 12 Jun 2026 09:13:16 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "情誼還是籌碼？習近平出訪朝鮮，能否在俄朝關係中重奪主導地位？",
-      "link": "https://www.bbc.com/zhongwen/articles/ce8kd2pp9pro/trad?at_medium=RSS&at_campaign=rss",
-      "description": "中國國家主席習近平於6月8日至9日訪問朝鮮。此行是他自2019年以來，時隔近七年的再次到訪平壤。此行也是習近平2026年首次出訪，而在數週前，他在北京分別會見美俄元首。分析指，這一系列外交行程反映了中國與這個不穩定的鄰國之間的同盟關係，主要目的在於增加地緣政治籌碼，而非單純宣示友誼。",
-      "pubDate": "Mon, 08 Jun 2026 12:46:35 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "台股初段升逾3%",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858215-20260612.htm",
+      "description": "台股在開市初段升逾3%，加權指數較早時報44628點，升1478點，升幅3.43%。    編輯：宋家樑",
+      "pubDate": "Fri, 12 Jun 2026 09:08:09 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "韓國選舉「缺票」抗議延燒 票站職員重組事發經過",
-      "link": "https://www.bbc.com/zhongwen/articles/c05yg6nze0no/trad?at_medium=RSS&at_campaign=rss",
-      "description": "韓國6月3日舉行地方選舉，卻有部分票站選票不足，導致選民無法投票，引發多日示威和爭議聲浪。BBC韓語組訪問地方公務員朴敏（化名），他被派往涉事選區之一松坡區擔任票站職員，憶述事發經過。事件延燒數天，選委會主席宣布辭職，但會方認為缺票事件不構成延期或重選的理由。總統李在明下令調查事件原因。",
-      "pubDate": "Mon, 08 Jun 2026 14:27:41 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "IMF下調今年歐元區經濟增長預測至0.9%　受中東戰爭影響",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858210-20260612.htm",
+      "description": "國際貨幣基金組織（IMF）下調今年歐元區經濟增長預測至0.9%，低過4月預測的1.1%；並將通脹率預測上調至2.8%，高過4月的2.6%，主要受中東戰爭影響。  IMF指，如果能源價格持續高企，可能進一步推高通脹及通脹預期，同時信心下降或金融壓力可能削弱需求。中東衝突再度升級、能源基礎設施修復延遲、俄烏戰爭加劇，以及貿易政策進一步調整，將帶來額外的經濟下行風險。  IMF又指，歐洲央行近3年來首次加息，之後可能再次加息，令今年全年累計加息幅度達到0.5厘，並可能再加息1次。  IMF警告歐元區財長，不要急於採取措施以紓緩高能源價格對國家經濟的影響，又指沒有必要實施廣泛的財政支持。    編輯：張詩民",
+      "pubDate": "Fri, 12 Jun 2026 08:35:43 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "鄭麗文展開訪美行程：聚焦向美方釋疑與2028總統大選佈局",
-      "link": "https://www.bbc.com/zhongwen/articles/c2d290gw1zko/trad?at_medium=RSS&at_campaign=rss",
-      "description": "台灣最大在野黨中國國民黨主席鄭麗文於6月1日啟程訪問美國，展開為期16天的行程，將造訪舊金山、波士頓、紐約、華盛頓及洛杉磯。",
-      "pubDate": "Wed, 03 Jun 2026 09:36:07 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "韓股初段重上8000點以上　升幅近7%",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858212-20260612.htm",
+      "description": "韓國股市在開市初段重上8000點關口以上，首爾綜合指數較早時報8292點，升528點，升幅6.8%。    編輯：張詩民",
+      "pubDate": "Fri, 12 Jun 2026 08:10:11 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "台積電財務長黃仁昭BBC專訪：經營成本上升，晶片不排除加價",
-      "link": "https://www.bbc.com/zhongwen/articles/cp9lzne9159o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "在一場罕有的專訪中，這名台積電高層主管談到人工智能熱潮、晶片的地緣政治，以及這對電子產品價格意味著什麼。",
-      "pubDate": "Tue, 09 Jun 2026 23:05:02 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "日股初段升逾2%",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858211-20260612.htm",
+      "description": "日本股市在開市初段升逾2%，日經平均指數較早時報65619點，升1402點，升幅2.18%。    編輯：張詩民",
+      "pubDate": "Fri, 12 Jun 2026 08:09:34 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "在股市升空的SpaceX，可能是馬斯克迄今最大的一次豪賭",
-      "link": "https://www.bbc.com/zhongwen/articles/cwyler2v78ko/trad?at_medium=RSS&at_campaign=rss",
-      "description": "SpaceX正籌備進軍股市，此舉可能改變公司發展、整體市場格局以及馬斯克的財富版圖。",
-      "pubDate": "Wed, 10 Jun 2026 00:06:32 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "港股ADR普遍較本港收市上升",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858201-20260612.htm",
+      "description": "港股美國預託證券（ADR）普遍較本港收市上升。  金融股方面，滙控ADR較本港收市升近3%，友邦和港交所升幅近1%。  至於科技股，ATMXJ的ADR較本港收市升幅介乎近1%至近3%，以阿里巴巴升幅較大。    編輯：張詩民",
+      "pubDate": "Fri, 12 Jun 2026 06:54:05 +0800",
+      "source": "RTHK 财经 (ZH)",
+      "category": "finance",
       "lang": "zh"
     },
     {
-      "title": "「伊萬卡，回家去！」特朗普家族項目引發阿爾巴尼亞民眾抗議",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2vl79lgrqo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "該計劃涵蓋薩贊島以及一段尚未開發、鄰近受保護濕地的海岸線，當地是火烈鳥、海豹及海龜的重要棲息地。",
-      "pubDate": "Mon, 08 Jun 2026 05:42:21 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "'There's a World Cup happening?' Are Americans excited about tournament?",
+      "link": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
+      "description": "With the World Cup under way, how excited are people across the United States - and do they even know it's on?",
+      "pubDate": "Fri, 12 Jun 2026 04:11:21 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "'Best Canada team ever' bid to shine at home World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
+      "description": "Amid political turbulence in the US and talk of moving matches out of Mexico, it can be forgotten that there is a third co-host of the 2026 World Cup. Canada hope it will be their time to shine.",
+      "pubDate": "Fri, 12 Jun 2026 06:12:21 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Everyone needs to feel loved playing for England - Bellingham",
+      "link": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
+      "description": "England midfielder Jude Bellingham stresses the importance of needing to 'feel loved' as he looks to help the Three Lions enjoy World Cup success this summer.",
+      "pubDate": "Fri, 12 Jun 2026 05:24:53 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "From near death to World Cup hero - Jimenez's tears for Mexico",
+      "link": "https://www.bbc.com/sport/football/articles/cm2dl67rljvo?at_medium=RSS&at_campaign=rss",
+      "description": "From nearly dying on the pitch to scoring for Mexico at the World Cup - Raul Jimenez has completed a remarkable comeback.",
+      "pubDate": "Fri, 12 Jun 2026 00:02:08 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Three red cards shown as Mexico beat South Africa in World Cup opener",
+      "link": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
+      "description": "Three players are sent off as World Cup co-hosts Mexico defeat South Africa in a dramatic opening match at a packed Azteca Stadium.",
+      "pubDate": "Thu, 11 Jun 2026 22:01:14 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "description": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
+      "pubDate": "Thu, 11 Jun 2026 23:41:14 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Three red cards - are referees getting tough at this World Cup?",
+      "link": "https://www.bbc.com/sport/football/articles/cjwglq2gzd6o?at_medium=RSS&at_campaign=rss",
+      "description": "Three players were sent off in the World Cup opener as Mexico beat South Africa 2-0. Are we about to see a World Cup littered with red cards?",
+      "pubDate": "Thu, 11 Jun 2026 23:13:18 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Who am I? Guess World Cup star No 5",
+      "link": "https://www.bbc.com/sport/football/articles/cn8p281pdg1o?at_medium=RSS&at_campaign=rss",
+      "description": "Will you get today's player in as few attempts as possible?",
+      "pubDate": "Fri, 12 Jun 2026 05:21:08 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Newcastle's Hall keen on Man Utd switch - Friday's gossip",
+      "link": "https://www.bbc.com/sport/football/articles/cx2w66rxpx7o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United keen on wantaway Newcastle left-back Lewis Hall, Spanish giants close in on Bernardo Silva, Real Madrid target Manchester City's Josko Gvardiol",
+      "pubDate": "Thu, 11 Jun 2026 20:26:37 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "London Stadium and West Ham women's team not aware of David Sullivan contact ban",
+      "link": "https://www.bbc.com/news/articles/c862wpn8e4xo?at_medium=RSS&at_campaign=rss",
+      "description": "The owner of West Ham United's home has raised concerns it was not told about safeguarding restrictions.",
+      "pubDate": "Thu, 11 Jun 2026 20:03:59 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "'You're not even the best player in your house' - the rise of 'Meatball' McGinn",
+      "link": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
+      "description": "John McGinn was a boy from Clydebank with a \"big, round head\" and bigger dreams. Scotland's World Cup opener marks a new high in a storybook career.",
+      "pubDate": "Thu, 11 Jun 2026 13:48:36 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "McTominay travels separately in Boston as precaution",
+      "link": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+      "description": "Key midfielder Scott McTominay travelled with a doctor as a precaution prior to Scotland's World Cup opener.",
+      "pubDate": "Thu, 11 Jun 2026 23:39:32 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Man City second offer worth £120m for Anderson rejected",
+      "link": "https://www.bbc.com/sport/football/articles/cp8r74rr95po?at_medium=RSS&at_campaign=rss",
+      "description": "Elliot Anderson would prefer a move to Manchester City over Manchester United should a deal be agreed with Nottingham Forest, but a second offer has been rejected.",
+      "pubDate": "Thu, 11 Jun 2026 14:06:13 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Why are footballers wearing pink boots at the World Cup?",
+      "link": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
+      "description": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
+      "pubDate": "Thu, 11 Jun 2026 22:04:51 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Real Madrid bring back Mourinho on three-year deal",
+      "link": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo?at_medium=RSS&at_campaign=rss",
+      "description": "Real Madrid have confirmed the re-appointment of Jose Mourinho as head coach.",
+      "pubDate": "Thu, 11 Jun 2026 19:11:19 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Messi, Maradona or Pele? Ranking the top 10 World Cup legends",
+      "link": "https://www.bbc.com/sport/football/articles/cgl34ne0g3eo?at_medium=RSS&at_campaign=rss",
+      "description": "Who are the biggest World Cup legends of all time? From Pele to Lionel Messi, we attempt to name the top 10.",
+      "pubDate": "Thu, 11 Jun 2026 05:51:06 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Catch up on the World Cup without any spoilers",
+      "link": "https://www.bbc.com/sport/football/articles/c0qy0zn231yo?at_medium=RSS&at_campaign=rss",
+      "description": "It is a dilemma plenty of fans in the UK will have - and we are giving you the chance to follow the World Cup without spoilers.",
+      "pubDate": "Thu, 11 Jun 2026 17:08:40 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Follow the World Cup with live lock screen updates on the BBC Sport app",
+      "link": "https://www.bbc.com/sport/football/articles/cvgz23p2q2jo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport has launched live match updates - bringing you your team's score directly to your phone lock screen.",
+      "pubDate": "Tue, 09 Jun 2026 13:28:47 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Set up BBC Sport website and app to show more Scotland",
+      "link": "https://www.bbc.com/sport/football/articles/cdxp35lp7n5o?at_medium=RSS&at_campaign=rss",
+      "description": "With Scotland at their first men's World Cup since 1998, BBC Sport is making it easier than ever to keep up with the national team's progress.",
+      "pubDate": "Tue, 09 Jun 2026 13:02:34 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Play BBC Sport's new World Cup predictor game",
+      "link": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
+      "description": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football.",
+      "pubDate": "Tue, 09 Jun 2026 08:24:41 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Quinones scores opening goal of 2026 World Cup",
+      "link": "https://www.bbc.com/sport/football/videos/cqx184lqywwo?at_medium=RSS&at_campaign=rss",
+      "description": "Mexico's Julian Quinones scores the opening goal of the 2026 World Cup against South Africa at Mexico City Stadium.",
+      "pubDate": "Thu, 11 Jun 2026 21:03:49 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Three red cards shown in opening game of World Cup",
+      "link": "https://www.bbc.com/sport/football/videos/cpv3nk20e9xo?at_medium=RSS&at_campaign=rss",
+      "description": "Referee Wilton Pereira Sampaio shows red cards to South Africa's Yaya Sithole and Themba Zwane as well as Mexico's Cesar Montes during the opening match of the 2026 World Cup at the Mexico City Stadium.",
+      "pubDate": "Thu, 11 Jun 2026 21:30:42 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Shakira among the performers at World Cup opening ceremony",
+      "link": "https://www.bbc.com/sport/football/videos/cg532q9zjppo?at_medium=RSS&at_campaign=rss",
+      "description": "Shakira was among the performers during the opening ceremony of the 2026 World Cup at the Mexico City Stadium ahead of the opening game between Mexico and South Africa.",
+      "pubDate": "Thu, 11 Jun 2026 21:06:59 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "'We're excited to move forward' - Edwards' last interview at Wolves ",
+      "link": "https://www.bbc.com/sport/football/videos/ckg412e9dgro?at_medium=RSS&at_campaign=rss",
+      "description": "In his last interview as Wolves head coach, Rob Edwards told BBC Sport he's looking forward to a \"fresh start\" with the club over the summer, following their relegation from the Premier League.",
+      "pubDate": "Thu, 11 Jun 2026 09:23:09 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "How much did the Messi-Ronaldo rivalry drive them both?",
+      "link": "https://www.bbc.com/sport/football/videos/c05yj4p5gzgo?at_medium=RSS&at_campaign=rss",
+      "description": "Focusing on two iconic celebrations, we look at how much the rivalry between Lionel Messi and Cristiano Ronaldo drove them both.",
+      "pubDate": "Thu, 11 Jun 2026 05:20:59 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Fatigue? The World Cup players who have had toughest seasons",
+      "link": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport examines which World Cup teams and players have played the most minutes since last summer, when the Club World Cup was kicking off in the United States.",
+      "pubDate": "Thu, 11 Jun 2026 13:55:27 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
+      "link": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
+      "description": "How has Harry Kane managed to enjoy the best goalscoring season of his career at Bayern Munich when dropping deep so often? Thomas Tuchel knows - and England might now feel the benefit.",
+      "pubDate": "Thu, 11 Jun 2026 15:11:45 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Artan to referee Uefa Super Cup after losing World Cup role",
+      "link": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
+      "description": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot at the World Cup.",
+      "pubDate": "Thu, 11 Jun 2026 14:24:58 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Players organise England team-bonding dinner in Miami",
+      "link": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&at_campaign=rss",
+      "description": "England players organise a team-bonding dinner in Miami with Thomas Tuchel giving them time off from their gruelling Florida pre-World Cup training camp.",
+      "pubDate": "Thu, 11 Jun 2026 18:40:27 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+      "link": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup.",
+      "pubDate": "Wed, 10 Jun 2026 17:25:38 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "O'Neill safest of safe bets as Celtic opt against another gamble",
+      "link": "https://www.bbc.com/sport/football/articles/cvgz2rxdw8jo?at_medium=RSS&at_campaign=rss",
+      "description": "Celtic may be accused of short-termism but have chosen the path of least resistance by sticking with proven winner Martin O'Neill as manager, writes Tom English.",
+      "pubDate": "Thu, 11 Jun 2026 11:47:31 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "'Have you lost control?' - BBC sports editor asks Fifa chief Infantino",
+      "link": "https://www.bbc.com/sport/football/videos/c9q2ldq4jn4o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC sports editor Dan Roan quizzes Fifa president Gianni Infantino on the eve of the World Cup, after he told journalists to \"chill\" and \"relax\" over visa and ticketing issues.",
+      "pubDate": "Wed, 10 Jun 2026 20:59:00 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Referee Omar Artan returns to Somalia",
+      "link": "https://www.bbc.com/sport/football/videos/c14ylv1eyl0o?at_medium=RSS&at_campaign=rss",
+      "description": "Referee Omar Artan arrives back in Somalia after being denied entry to the United States for the World Cup because of his \"association with suspected members of terror organisations\".",
+      "pubDate": "Wed, 10 Jun 2026 14:40:38 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "USA not totally reliant on Pulisic - Balboa",
+      "link": "https://www.bbc.com/sport/football/videos/cy5vlg1de26o?at_medium=RSS&at_campaign=rss",
+      "description": "Former United States defender Marcelo Balboa says his country are not totally reliant on AC Milan star Christian Pulisic as the co-hosts prepare for their opening game of the World Cup.",
+      "pubDate": "Wed, 10 Jun 2026 14:29:31 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "'Rashford's a dead cert' – Rooney, Walcott & Defoe on England's wide options",
+      "link": "https://www.bbc.com/sport/football/videos/c9d2lyl5770o?at_medium=RSS&at_campaign=rss",
+      "description": "Wayne Rooney, Theo Walcott, Jermain Defoe, Kae Kurd and Kelly Somers assess England's wide options for the World Cup.",
+      "pubDate": "Tue, 09 Jun 2026 17:40:37 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Watch: Weir scores four as Scotland beat Israel to win group",
+      "link": "https://www.bbc.com/sport/videos/c0ky8873nr5o?at_medium=RSS&at_campaign=rss",
+      "description": "Watch the highlights as Scotland beat Israel 5-1, with Caroline Weir scoring four goals in Hungary to top their Women's World Cup qualifying group ahead of Belgium and win promotion to League A for the next Nations League.",
+      "pubDate": "Tue, 09 Jun 2026 19:56:34 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Highlights: Wales beat Czech Republic 3-1 to top group",
+      "link": "https://www.bbc.com/sport/football/videos/cm2r0828xleo?at_medium=RSS&at_campaign=rss",
+      "description": "Watch highlights as Wales beat Czech Republic in Cardiff in Women's World Cup qualifying.",
+      "pubDate": "Tue, 09 Jun 2026 19:27:59 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Highlights: Switzerland sweep aside Northern Ireland",
+      "link": "https://www.bbc.com/sport/football/videos/cp8lxx2ly5do?at_medium=RSS&at_campaign=rss",
+      "description": "Watch highlights as group winners Switzerland finish their World Cup qualifying campaign with a 2-1 win over Northern Ireland in Lurgan.",
+      "pubDate": "Tue, 09 Jun 2026 19:51:41 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Who will win the World Cup? BBC pundits make their predictions",
+      "link": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "description": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
+      "pubDate": "Wed, 10 Jun 2026 05:24:53 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Sacked Edwards discovered Wolves job in jeopardy on social media",
+      "link": "https://www.bbc.com/sport/football/articles/cqx1w53y1qno?at_medium=RSS&at_campaign=rss",
+      "description": "Wolves sack head coach Rob Edwards just seven months after appointing him.",
+      "pubDate": "Thu, 11 Jun 2026 11:16:25 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Captain Endo out of World Cup and retires from Japan duty",
+      "link": "https://www.bbc.com/sport/football/articles/ckgpez39k50o?at_medium=RSS&at_campaign=rss",
+      "description": "Liverpool midfielder Wataru Endo withdraws from Japan's World Cup squad because of injury and retires from international football.",
+      "pubDate": "Thu, 11 Jun 2026 19:46:56 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+      "link": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
+      "pubDate": "Thu, 11 Jun 2026 11:13:02 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "What history tells us about Scotland's World Cup openers",
+      "link": "https://www.bbc.com/sport/football/articles/cp8ln13xmkzo?at_medium=RSS&at_campaign=rss",
+      "description": "With Sunday's (02:00 BST) encounter with Haiti ending a 28-year absence from football's grandest stage, BBC Scotland has been digging through the archives.",
+      "pubDate": "Thu, 11 Jun 2026 15:20:33 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "How the weather can shape the tactics of a football nation",
+      "link": "https://www.bbc.com/sport/articles/cqj10gkn788o?at_medium=RSS&at_campaign=rss",
+      "description": "Much has been made of the heat in which matches will be played at this World Cup - but how will it impact on the tactics?",
+      "pubDate": "Thu, 11 Jun 2026 10:56:45 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Three key issues Celtic and O'Neill must tackle",
+      "link": "https://www.bbc.com/sport/football/articles/cm209rdy8eko?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Scotland looks at three key issues facing Celtic and Martin O'Neill after the 74-year-old is confirmed as the club's permanent manager.",
+      "pubDate": "Thu, 11 Jun 2026 11:57:17 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
+      "link": "https://www.bbc.com/sport/football/articles/cz9lxld1892o?at_medium=RSS&at_campaign=rss",
+      "description": "England's World Cup preparations are complete, so who will now make it into Thomas Tuchel's team to face Croatia?",
+      "pubDate": "Thu, 11 Jun 2026 00:45:16 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Scotland have chip on shoulder in search of history",
+      "link": "https://www.bbc.com/sport/football/articles/cdejng0n6k2o?at_medium=RSS&at_campaign=rss",
+      "description": "Midfielder Ryan Christie vividly remembers the pain of Scotland's Euro 2024 campaign and is using it as motivation to make history in the World Cup.",
+      "pubDate": "Thu, 11 Jun 2026 06:45:07 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Man City agree deal to sign England's Charles",
+      "link": "https://www.bbc.com/sport/football/articles/cp3653pydxpo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester City have agreed a deal to sign England defender Niamh Charles from Chelsea.",
+      "pubDate": "Thu, 11 Jun 2026 12:14:01 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Newcastle in talks to sign Spain winger Munoz",
+      "link": "https://www.bbc.com/sport/football/articles/c17yd0p0597o?at_medium=RSS&at_campaign=rss",
+      "description": "Newcastle United are in talks with Osasuna to sign Spain winger Victor Munoz.",
+      "pubDate": "Thu, 11 Jun 2026 15:35:07 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "How to watch highlights of World Cup matches?",
+      "link": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
+      "pubDate": "Thu, 11 Jun 2026 17:26:46 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Dalglish, Souness & Rod Stewart - Scotland's World Cup '86 remembered",
+      "link": "https://www.bbc.com/sport/football/articles/c62xqg7l6w9o?at_medium=RSS&at_campaign=rss",
+      "description": "Remembering Scotland's 1986 World Cup campaign, their fourth successive appearance at the tournament.",
+      "pubDate": "Thu, 11 Jun 2026 10:49:29 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Celtic served with suspended capacity reduction after pitch invasion",
+      "link": "https://www.bbc.com/sport/football/articles/cjeg99n732do?at_medium=RSS&at_campaign=rss",
+      "description": "Celtic chairman Brian Wilson criticises the \"stupid debate\" around the pitch invasion that followed their title-clinching victory over Hearts in May, while accepting sanctions issued by the SPFL.",
+      "pubDate": "Thu, 11 Jun 2026 18:36:49 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Infantino could have stood up for the World Cup - but he said 'chill, relax'",
+      "link": "https://www.bbc.com/sport/football/articles/cvgj40vymlyo?at_medium=RSS&at_campaign=rss",
+      "description": "Gianni Infantino faced the media for the first time in three years, but he did little to convince that Fifa has lost its grip on the organisation of the 2026 World Cup.",
+      "pubDate": "Wed, 10 Jun 2026 22:28:02 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
+      "link": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
+      "description": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss.",
+      "pubDate": "Wed, 10 Jun 2026 05:45:28 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "How Alvarez became Europe's most sought-after striker",
+      "link": "https://www.bbc.com/sport/football/articles/c4gy7j94z03o?at_medium=RSS&at_campaign=rss",
+      "description": "Julian Alvarez heads to the World Cup aiming to fire Argentina to back-to-back triumphs at a time when he is the subject of one the most sensational transfer bids ever made.",
+      "pubDate": "Wed, 10 Jun 2026 12:43:44 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "VAR, timewasting and subs - World Cup law changes explained",
+      "link": "https://www.bbc.com/sport/football/articles/ce8jv326d7vo?at_medium=RSS&at_campaign=rss",
+      "description": "The 2026 World Cup is going to be unprecedented for a variety of reasons - and that includes the sheer number of law changes.",
+      "pubDate": "Wed, 10 Jun 2026 13:18:27 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars of the 2026 World Cup.",
+      "pubDate": "Tue, 09 Jun 2026 06:42:53 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "All done deals in June 2026",
+      "link": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
+      "description": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "pubDate": "Thu, 11 Jun 2026 19:37:09 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Mo Salah: Never Give Up",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002p54c?at_medium=RSS&at_campaign=rss",
+      "description": "The story of Mo Salah’s unlikely rise to global stardom.",
+      "pubDate": "Wed, 10 Dec 2025 06:00:00 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "What are the deadlines for World Cup squads?",
+      "link": "https://www.bbc.com/sport/football/articles/ckgp482v49xo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup",
+      "pubDate": "Wed, 03 Jun 2026 08:12:18 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "How much prize money have Premier League teams earned in Europe?",
+      "link": "https://www.bbc.com/sport/football/articles/c3d2yd99pn8o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport's Ask Me Anything team explains how much Arsenal, Aston Villa and Crystal Palace have earned in Europe this season",
+      "pubDate": "Thu, 28 May 2026 15:14:40 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Which club received most red cards in a Premier League season?",
+      "link": "https://www.bbc.com/sport/football/articles/cjdrxl52vvzo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport's Ask Me Anything looks at the teams who have received the most red cards in a Premier League season.",
+      "pubDate": "Mon, 25 May 2026 14:08:29 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Who won the Premier League golden boot?",
+      "link": "https://www.bbc.com/sport/articles/ce3p5pd355ko?at_medium=RSS&at_campaign=rss",
+      "description": "BBC's Ask Me Anything team explains who has won the Premier League golden boot and other individual awards.",
+      "pubDate": "Sun, 24 May 2026 19:05:28 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Who are the oldest players to feature at a World Cup?",
+      "link": "https://www.bbc.com/sport/football/articles/cwy2x316jy0o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport's Ask Me Anything team looks at who the oldest players are in the history of the World Cup",
+      "pubDate": "Thu, 21 May 2026 11:40:56 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Who has qualified for next season's Champions League?",
+      "link": "https://www.bbc.com/sport/football/articles/crl177pxrl4o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport's Ask Me Anything team explains which teams have already qualified for the 2026-27 edition of the Champions League.",
+      "pubDate": "Sun, 24 May 2026 21:01:33 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Who has the most Premier League assists in a season?",
+      "link": "https://www.bbc.com/sport/articles/cd031ddxgdzo?at_medium=RSS&at_campaign=rss",
+      "description": "Our Ask Me Anything team look at who has provided the most assists in the history of the Premier League.",
+      "pubDate": "Mon, 18 May 2026 11:29:02 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "McTominay travels separately in Boston as precaution",
+      "link": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+      "description": "Key midfielder Scott McTominay travelled with a doctor as a precaution prior to Scotland's World Cup opener.",
+      "pubDate": "Thu, 11 Jun 2026 23:39:32 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "O'Neill safest of safe bets as Celtic opt against another gamble",
+      "link": "https://www.bbc.com/sport/football/articles/cvgz2rxdw8jo?at_medium=RSS&at_campaign=rss",
+      "description": "Celtic may be accused of short-termism but have chosen the path of least resistance by sticking with proven winner Martin O'Neill as manager, writes Tom English.",
+      "pubDate": "Thu, 11 Jun 2026 11:47:31 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Klopp role in putting Rohl in Salzburg frame - gossip",
+      "link": "https://www.bbc.com/sport/football/articles/c77y4d761d0o?at_medium=RSS&at_campaign=rss",
+      "description": "Former Liverpool boss plays role in putting Rangers head coach in frame for RB Salzburg job as Celtic backroom team asked to take wage cuts.",
+      "pubDate": "Fri, 12 Jun 2026 06:36:53 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Celtic chairman mocks 'artificial controversy' on pitch invasion ",
+      "link": "https://www.bbc.com/sport/football/articles/cjeg99n732do?at_medium=RSS&at_campaign=rss",
+      "description": "Celtic chairman Brian Wilson criticises the \"stupid debate\" around the pitch invasion that followed their title-clinching victory over Hearts in May, while accepting sanctions issued by the SPFL.",
+      "pubDate": "Thu, 11 Jun 2026 18:36:49 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "The rise and rise of 'Meatball' McGinn",
+      "link": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
+      "description": "John McGinn was a boy from Clydebank with a \"big, round head\" and bigger dreams. Scotland's World Cup opener marks a new high in a storybook career.",
+      "pubDate": "Thu, 11 Jun 2026 13:48:36 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Three key issues Celtic and O'Neill must tackle",
+      "link": "https://www.bbc.com/sport/football/articles/cm209rdy8eko?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Scotland looks at three key issues facing Celtic and Martin O'Neill after the 74-year-old is confirmed as the club's permanent manager.",
+      "pubDate": "Thu, 11 Jun 2026 11:57:17 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Man City agree deal to sign England's Charles",
+      "link": "https://www.bbc.com/sport/football/articles/cp3653pydxpo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester City have agreed a deal to sign England defender Niamh Charles from Chelsea.",
+      "pubDate": "Thu, 11 Jun 2026 12:14:01 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "London Stadium and West Ham women's team not aware of Sullivan contact ban",
+      "link": "https://www.bbc.com/news/articles/c862wpn8e4xo?at_medium=RSS&at_campaign=rss",
+      "description": "The owner of West Ham United's home has raised concerns it was not told about safeguarding restrictions.",
+      "pubDate": "Thu, 11 Jun 2026 20:03:59 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "National League clubs urge FA to end proposals over academy teams",
+      "link": "https://www.bbc.com/sport/football/articles/clyp5k542veo?at_medium=RSS&at_campaign=rss",
+      "description": "Fifty two Women's National League clubs sign a letter sent to the Football Association opposing proposals to bring top tier academy teams into their league.",
+      "pubDate": "Thu, 11 Jun 2026 08:25:02 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Wales bosses lobbying Uefa to expand Women's Euros",
+      "link": "https://www.bbc.com/sport/football/articles/c8r2jxy7v31o?at_medium=RSS&at_campaign=rss",
+      "description": "The Football Association of Wales wants Uefa to expand the Women's European Championship from 16 to 24 teams, in line with the men's competition.",
+      "pubDate": "Thu, 11 Jun 2026 10:18:03 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Why are so few women reaching the top in coaching?",
+      "link": "https://www.bbc.com/sport/football/articles/cx212lz420wo?at_medium=RSS&at_campaign=rss",
+      "description": "Hannah Dingley became the first female manager of a professional men's side in England in 2023 but she says more needs to be done to help women advance in coaching roles.",
+      "pubDate": "Wed, 10 Jun 2026 11:15:38 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "FAI bids to host 2029 Women's Champions League final",
+      "link": "https://www.bbc.com/sport/football/articles/cql1rk2ew10o?at_medium=RSS&at_campaign=rss",
+      "description": "The Football Association of Ireland formally bids to host the 2029 Women's Champions League final at Dublin's Aviva Stadium.",
+      "pubDate": "Wed, 10 Jun 2026 14:11:22 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "How Cornish miners brought football to Mexico",
+      "link": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
+      "description": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
+      "pubDate": "Tue, 02 Jun 2026 05:28:25 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "The summer a golden generation lost its shine",
+      "link": "https://www.bbc.co.uk/sport/extra/60s97qhdbf/the-golden-generation?at_medium=RSS&at_campaign=rss",
+      "description": "The summer of 2006 was meant to be England's moment. A world-class squad, celebrity partners and confident fans - the hype was huge and the fall was hard.",
+      "pubDate": "Mon, 11 May 2026 00:00:00 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "How Toone is navigating grief through football",
+      "link": "https://www.bbc.com/sport/football/articles/c3e2dg875x7o?at_medium=RSS&at_campaign=rss",
+      "description": "England and Manchester United midfielder Ella Toone opens up about grief, football and preparing for her wedding without her dad in a new BBC documentary.",
+      "pubDate": "Fri, 29 May 2026 17:04:22 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "When football turned to penalties to end 'cruel' system",
+      "link": "https://www.bbc.com/sport/football/articles/cr71enxvrd3o?at_medium=RSS&at_campaign=rss",
+      "description": "No-one knew what to expect at football's first official penalty shootout - and no-one wanted to go down in history as the first to miss.",
+      "pubDate": "Sat, 28 Mar 2026 06:15:22 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Frank's downfall: Inside his struggle to get players and fans onboard ",
+      "link": "https://www.bbc.com/sport/football/articles/cgmlv9d3k7no?at_medium=RSS&at_campaign=rss",
+      "description": "Thomas Frank has been sacked as Tottenham manager after just eight months in charge. BBC Sport's Sami Mokbel takes a closer look at his tenure.",
+      "pubDate": "Wed, 11 Feb 2026 19:51:53 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "Cages, crushes and stabbings - is European away safety getting worse?",
+      "link": "https://www.bbc.com/sport/football/articles/c2lg7kkqe11o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport explores the safety issues fans face when following their team across Europe.",
+      "pubDate": "Fri, 30 Jan 2026 06:07:36 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "The great number nine decline - where have England's strikers gone?",
+      "link": "https://www.bbc.com/sport/football/articles/cx2018n9dx5o?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport takes an in-depth look at why England lack centre-forward options behind Harry Kane - a far cry from when the likes of Les Ferdinand only won 17 caps.",
+      "pubDate": "Thu, 13 Nov 2025 06:13:20 GMT",
+      "source": "BBC Sports Football (EN)",
+      "category": "sports",
+      "lang": "en"
+    },
+    {
+      "title": "世界盃｜韓國2:1反勝捷克　",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858252-20260612.htm",
+      "description": "美墨加世界盃A組賽事，韓國2:1反勝捷克。  雙方半場未有入球。捷克隊長基治在59分鐘，接應界外球頭鎚頂入，協助捷克打開紀錄。  8分鐘之後，韓國憑黃仁範接應李剛仁傳送，在禁區內冷靜射入，協助球隊追成1:1平手。捷克球員蘇捷，在77分鐘接應罰球頂入，球證透過VAR覆核，判蘇捷越位在先、入球無效。  80分鐘，黃仁範在右路傳球入禁區，後備上陣的吳賢揆近門撞入，韓國反超前2:1。比賽最後階段，韓國門將金承奎兩次救出捷克球員射門，協助球隊守住勝局。  A組首輪賽事完成，墨西哥以較佳得失球差，力壓韓國排名榜首，捷克第三，南非暫時排榜尾。    編輯︰李俊傑",
+      "pubDate": "Fri, 12 Jun 2026 13:01:45 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "人形機械人會走向戰場嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c8720nd3jpqo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "各國軍方正測試人形機械人，但距離實際部署於戰場仍有一段距離。",
-      "pubDate": "Tue, 09 Jun 2026 08:09:41 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜墨西哥在揭幕戰2:0擊敗南非　比賽共出現三張紅牌",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858191-20260612.htm",
+      "description": "美墨加世界盃揭幕戰，墨西哥主場出戰以2:0擊敗南非。兩隊合共有三名球員，被球證以紅牌驅逐離場。  揭幕戰在墨西哥城阿茲特克體育場舉行，有超過八萬名觀眾，由主辦國之一的墨西哥主場迎戰南非。首個入球在9分鐘出現，採取前場逼搶踢法的墨西哥，憑利拿於禁區邊令南非球員控球失誤，造就隊友堅約尼斯禁區頂射入先開紀錄，成為今屆決賽周首名入球球員，協助墨西哥上半場領先一球。  49分鐘，南非球員薛杜尼從後拉跌單刀的主隊球員拜恩古迪亞利斯，被紅牌趕出場。有人數優勢的墨西哥，前鋒魯爾占美利斯在67分鐘，門前頂入成2:0，第四次出戰決賽周的魯爾占美利斯，首次錄得入球。  南非之後再有施雲尼向對方球員做出粗野動作，到84分鐘成為今場第二名被紅牌驅逐的球員，補時階段主隊墨西哥亦有蒙迪斯領紅牌被逐。墨西哥最終贏2:0，在A組旗開得勝。       編輯：張萬燕",
+      "pubDate": "Fri, 12 Jun 2026 05:13:05 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "霍爾木茲海峽封鎖數月後  那些被困海上的船隻和海員",
-      "link": "https://www.bbc.com/zhongwen/articles/cq8plyd8p1wo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "國際海事組織估計，仍有1,600艘船隻被困在霍爾木茲海峽的另一側，無法離開。",
-      "pubDate": "Wed, 03 Jun 2026 09:45:58 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "摩連奴重返皇家馬德里執教",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858188-20260612.htm",
+      "description": "葡萄牙籍教頭摩連奴，重返西甲勁旅皇家馬德里執教。  皇馬在公告中表示，主席佩雷斯召開球會董事會會議，決定任命摩連奴為一隊主教練，簽約三個賽季至2029年6月30日，摩連奴將於下月13日正式帶領皇馬備戰新球季。  今次是摩連奴相隔13年再度執教皇馬，他曾經在2010年至2013年期間執教皇馬，帶領球隊拿到一個西甲聯賽冠軍、一個西班牙國王盃冠軍和一個西班牙超級盃冠軍。     編輯：許敬軒",
+      "pubDate": "Fri, 12 Jun 2026 03:18:57 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "小紅書轉播足球世界盃了，播球和看球的女性還會被視為「花瓶」嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y719lzn6po/trad?at_medium=RSS&at_campaign=rss",
-      "description": "女性觀眾或者從業者的存在受到質疑、歧視乃至騷擾的問題一直存在。據稱女性用戶佔70%的「小紅書」拿下2026年世界盃版權，一個女性友好的平台成為官方轉播商，會使這種現象有所改變嗎？\n",
-      "pubDate": "Tue, 09 Jun 2026 01:10:36 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜開幕式在墨西哥城體育場舉行　展現墨西哥文化",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858186-20260612.htm",
+      "description": "2026年美墨加世界盃決賽周，本港時間凌晨在墨西哥首都墨西哥城體育場揭幕，開幕式展現墨西哥文化，有歌手演唱及舞蹈表演，球場中央設置了一個巨型世界盃獎盃。  位於海拔2200多米、可容納超過8萬人的墨西哥城體育場，是史上第一個三次舉辦世界盃揭幕戰的球場。東道主之一的墨西哥在今屆賽事的揭幕戰，迎戰南非，上演16年前南非世界盃揭幕戰的戲碼。     編輯：許敬軒",
+      "pubDate": "Fri, 12 Jun 2026 02:45:59 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "國足無緣世界盃，裁判馬寧成為中國球迷追捧對象",
-      "link": "https://www.bbc.com/zhongwen/articles/cvg57924klno/trad?at_medium=RSS&at_campaign=rss",
-      "description": "以執法風格嚴厲著稱的馬寧作為世界盃裁判，由此引發網絡迷因和品牌贊助。",
-      "pubDate": "Wed, 10 Jun 2026 05:39:18 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜國際足協料現場觀眾人數將會打破紀錄",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858184-20260612.htm",
+      "description": "國際足協預計，美墨加世界盃的現場觀眾人數將會打破紀錄。  今屆決賽周首次由三個國家聯合舉辦，首次有48支球隊參賽，比賽場數亦增至104場。國際足協在聲明中表示，由於全球需求空前高漲，今屆世界盃累積的現場觀眾人數，有望打破1994年世界盃創下的350萬人。  國際足協又說，目前已經售出超過600萬張門票，預計全球亦會有60億觀眾透過電視收看比賽。     編輯：許敬軒",
+      "pubDate": "Fri, 12 Jun 2026 02:17:36 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "習近平結束訪朝：不提「無核化」 重打「貿易牌」 對半島意味著什麼",
-      "link": "https://www.bbc.com/zhongwen/articles/cx260z3k8yjo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "「金正恩變得更大膽了。只要他不製造地區性動蕩，北京就不會試圖阻止他。」這便是「默許」的精確定義：不是同意，而是不攔。",
-      "pubDate": "Tue, 09 Jun 2026 10:21:37 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜墨西哥政府啟動大規模保安部署確保賽事安全",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858180-20260612.htm",
+      "description": "美墨加世界盃即將在墨西哥城揭幕，墨西哥政府啟動大規模保安部署，確保賽事安全。  預計世界盃期間，將會有超過500萬名遊客前往墨西哥，當局計劃部署近10萬安全人員、2100多輛車、33架大型無人機及145架各類飛機，在墨西哥城、瓜達拉哈拉和蒙特雷三座舉辦城市及其他重點旅遊城市，執行保安任務。  國防部門早前表示，今屆賽事的保安工作將會廣泛使用人面識別系統、爆炸物探測設備、反無人機系統及網絡監控系統等技術，保安措施將會重點覆蓋球場、球迷活動區域、旅遊景點及參賽隊伍交通路線等。    編輯：許敬軒",
+      "pubDate": "Fri, 12 Jun 2026 00:54:35 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "中國房地產巨頭退潮途中  國資如何對待當年的政府「包稅人」",
-      "link": "https://www.bbc.com/zhongwen/articles/cx21j3x28zpo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "中國房地產巨頭退場途中大多有國有資本的參與。有的被「國資乾爹」接管，有的被「國資清算人」拆解，有的被「國資站台者」敷衍。一隻看不見的手，似乎正在按照一套清晰的優先級，逐一處置過去的「包稅人」。",
-      "pubDate": "Sun, 07 Jun 2026 13:13:21 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "索馬里籍球證阿爾坦獲歐洲足協委任執法歐洲超級盃賽事",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858179-20260612.htm",
+      "description": "因為被美國拒絕入境、無緣執法美墨加世界盃決賽周的索馬里籍球證阿爾坦，獲歐洲足協委任執法歐洲超級盃賽事。  這場由應屆歐聯冠軍巴黎聖日耳門與應屆歐霸盃盟主阿士東維拉之間的較量，將於8月12日在薩爾斯堡舉行。歐洲足協表示，與非洲足協協商後，決定委任阿爾坦執法這場比賽。  歐洲足協主席塞弗林說，阿爾坦是一位年輕而經驗豐富的優秀球證，他在非洲足協的最高級別賽事中證明了自己的能力，足球的意義在於連結人與人，歐洲足協希望藉此表達對阿爾坦的尊重。     編輯：許敬軒",
+      "pubDate": "Fri, 12 Jun 2026 00:48:06 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "印太新局？日本與菲律賓最新軍事經濟結盟為何引發中國抗議",
-      "link": "https://www.bbc.com/zhongwen/articles/cx21293v800o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "日菲兩國宣佈正式啟動太平洋專屬經濟區劃界談判，這個被視為強化「第一島鏈」的戰略舉動立即引發中國強烈抨擊，稱有關舉動「完全非法且無效」，並派遣海警巡弋台灣東部海域。",
-      "pubDate": "Fri, 05 Jun 2026 08:30:13 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜料商場人流在世界盃期間增加一成",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858149-20260611.htm",
+      "description": "今屆世界盃將於凌晨開鑼。有球衣店舖表示，過去數星期，球衣銷量上升，當中以葡萄牙、阿根廷和英格蘭最熱門。雖然今屆大部份比賽都在香港時間凌晨至早上舉行，但不擔心會影響球衣銷情。  有集團在旗下商場舉辦免費睇波活動，又推出早餐優惠吸客，預期在世界盃期間，商場人流會增加一成，連帶與運動及電子器材相關的店舖，估計生意亦會有雙位數增長。     編輯：譚佩貞",
+      "pubDate": "Thu, 11 Jun 2026 18:54:14 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "「幼態臉」、「精靈耳」與「天鵝頸」 台灣人為何開始到上海「跨境醫美」?",
-      "link": "https://www.bbc.com/zhongwen/articles/cx2187dxwk4o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "受小紅書、抖音審美影響，台灣年輕人紛紛直奔上海跨境醫美。台灣網紅或求診者砸數百萬台幣改造。從「幼態臉」到「天鵝頸」，中國式少女風的醫美風讓一些人趨之若鶩，但背後風險與資訊落差也引發關注。",
-      "pubDate": "Mon, 08 Jun 2026 00:20:32 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "進一步打擊「炒場」　7.7起可經智方便優先登入康體通預訂設施",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858117-20260611.htm",
+      "description": "康文署宣布，推出新措施以加強核實康體設施或場地租用人身分，進一步打擊俗稱「炒場」的行為。  由下月7日起，「SmartPLAY康體通」用戶可透過「智方便」於每天上午 7時起，優先登入My SmartPLAY流動應用程式，預訂 7天內可供預訂的設施。至於不擬使用「智方便」登入的「SmartPLAY康體通」用戶，則可於每天上午 7時15分起，繼續透過My SmartPLAY流動應用程式、「SmartPLAY康體通」官方網頁、設置於多個康體場地的智能自助服務站或服務櫃枱預訂設施。  新措施藉「智方便」的認證功能，加強核實康體設施或場地租用人的身分。因應上午7時至7時15分是一般用戶預訂設施的高峰期，亦是「炒場」者利用電腦程式或自動化工具訂場的最活躍時段，在該時段實施新措施將更有效防止「炒場」。  因應「智方便」適用於年滿11歲的人士，11歲以下的「SmartPLAY康體通」用戶可繼續於每天上午7時起，透過My SmartPLAY流動應用程式預訂設施。康文署積極鼓勵11歲或以上的「SmartPLAY康體通」用戶登記成為「智方便」用戶，以便於每天上午7時起優先預訂康體設施或場地。  為配合新措施，康文署將於本月22日上午10時30分至下午1時30分，暫停My SmartPLAY流動應用程式及「SmartPLAY康體通」官方網頁的系統服務，以進行系統升級工程。   編輯：譚佩貞",
+      "pubDate": "Thu, 11 Jun 2026 15:32:19 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄？",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgpgk74l0xo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "張先生有種感覺，他覺得門正在關上。他要趁門完全關緊之前，把自己的資金往外送一些。但出來一看，很多人都有同樣的想法，所以大家都在排著隊。",
-      "pubDate": "Fri, 05 Jun 2026 09:31:05 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜海關檢1.56億元冒牌球衣波鞋拘6人　部分仿真度較高",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858094-20260611.htm",
+      "description": "海關檢獲約23萬件懷疑與世界盃相關的冒牌及侵權貨物，包括球衣、波鞋等，估計市值約1億5600萬元，拘捕6人。  海關由上月26日至昨日，採取代號「鋼門」的執法行動，打擊跨境走私及網上售賣世界盃相關的冒牌及侵權貨品，共偵破34宗案件，檢獲約23萬件懷疑冒牌及侵權貨物，當中包括約3萬件冒牌球衣，其餘約20萬件是波鞋、衣服及手錶等冒牌貨品。  海關版權及商標調查科版權及商標跨境調查組高級調查主任鍾旨惠表示，檢獲的冒牌球衣仿真度高、造工仔細，例如仿製正版布料的立體紋路，在隊徽和標籤上亦加有保護貼，企圖令冒牌貨更貼近正版貨包裝，大部份是售價較貴的「球員版」假球衣，正版售價大約為1100至1300元。這批冒牌球衣，全部都是計劃轉運到外地，八成是運往美洲地區。  行動中，海關拘捕1名36歲的跨境貨車男司機，另外有5名在網購平台售賣冒牌球衣的男子，年齡介乎17至30歲，5人共涉及售賣約40件冒牌球衣。  海關呼籲市民盡量到專門店、代理商或信譽良好的店鋪購買球衣，並留意印刷質素有否瑕疵，又呼籲本地物流業界，若發現懷疑有侵權貨品，應作出舉報。    編輯：潘潔平",
+      "pubDate": "Thu, 11 Jun 2026 12:03:07 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "中國「八九」民運37週年：在傳承和記憶斷層間掙扎的「六四二代」",
-      "link": "https://www.bbc.com/zhongwen/articles/c8099evp0jmo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "六四事件37年後，當年親歷者的下一代都各自長大成人，這些年間，他們經歷了什麼？",
-      "pubDate": "Thu, 04 Jun 2026 00:26:18 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "《環看天下》：中國3名球證入選世界盃執法助全面接軌國際標準",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858078-20260611.htm",
+      "description": "「美墨加」世界盃即將揭幕，外界正期待三名入選裁判名單的中國球證，稍後在賽場參與執法。當中連續第二屆可以參與世界盃執法的馬寧，今屆就升級擔任主裁判，是相隔24年再有中國裁判以「主哨」身份，有望亮相世界盃賽場中央。  另外兩名入選裁判是傅明及周飛，分別擔任VAR助理裁判，以及助理裁判。中國代表能夠同時參與三大球賽核心裁判崗位，被形容為「零的突破」。",
+      "pubDate": "Thu, 11 Jun 2026 09:38:11 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
-      "link": "https://www.bbc.com/zhongwen/articles/cwy203759ywo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "5月1日，兩名港人結伴攀爬日本飛驒山脈，因天氣惡化受困，最後僅一人生還。倖存者向BBC中文憶述經歷。",
-      "pubDate": "Fri, 29 May 2026 00:23:00 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜J組阿根廷展開衛冕　I組法國硬碰挪威",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858076-20260611.htm",
+      "description": "美墨加世界盃將於明日凌晨展開，上屆亞軍法國列入I組，球隊圍繞改踢中鋒的麥巴比，建立速度、爆發力兼備的戰術體系，仍然是奪冠熱門之一。他們分組賽會遇上攻力強勁的挪威；隊中射手夏蘭特外圍賽有16個入球進帳，將會迎接球員生涯首次國際大賽。同組球隊包括擁有一批在法國出生及成長的球員的塞內加爾，以及憑附加賽趕上決賽周尾班車的伊拉克。  J組以爭取衛冕的阿根廷經驗及實力較高；阿根廷隊長美斯將在決賽周期間度過39歲生日。冠軍教練史卡朗尼保留了17名上屆功臣，保證戰術體系穩定及默契。奧地利有多名球員曾效力德甲或奧地利球會，有效執行球隊的高壓逼搶踢法。阿爾及利亞陣中不少球員孕育自法國青訓體系，包括法國名宿施丹之子盧卡施丹。同組亦有首次亮相決賽周的約旦。  K組的葡萄牙有祖奧尼維斯、賓拿度施華及域天拿等球員，提高戰術變化及流動性，令基斯坦奴朗拿度可以專注埋門。 同組球隊哥倫比亞，已組成由占士洛迪古斯為首，攻守平衡的陣容。烏茲別克在外圍賽16場比賽有10場不失球、只輸過一場。剛果民主共和國受國內的伊波拉疫情影響，球隊要事先在比利時封閉隔離，對球隊影響仍有待評估。  L組球隊包括英格蘭、克羅地亞、巴拿馬及加納。英格蘭外圍賽分組8戰全勝，教練杜曹選人以符合戰術為依歸，大膽放棄具名氣球員，射手哈利卡尼依然是隊中核心。克羅地亞對上兩屆分別獲得季軍同亞軍，教練達歷、老將莫迪歷及佩歷錫及至今仍堅守崗位。加納教練基羅斯剛於4月中接手執教，短時間內要重整球隊陣容，至於巴拿馬經過基斯甸臣領軍近6年之後，將靠紀律性及組織嚴密的團隊出戰。    編輯：李俊傑",
+      "pubDate": "Thu, 11 Jun 2026 09:30:42 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
-      "link": "https://www.bbc.com/zhongwen/articles/c152l37yvyyo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "學者從機密檔案、縣誌研究和政治運動模式，分析「大屠殺」如何發生、誰應負責，以及其對當代中國政治文化的影響。",
-      "pubDate": "Sat, 16 May 2026 01:45:07 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "葡萄牙熱身賽2:1擊敗尼日利亞",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858064-20260611.htm",
+      "description": "葡萄牙在熱身賽以2:1擊敗尼日利亞。  柏度尼圖在23分鐘先開紀錄，但尼日利亞在37分鐘扳平，入球功臣是阿確阿當斯。  干斯卡奧在75分鐘建功，為葡萄牙奠定2:1勝局。  葡萄牙在世界盃被編入K組，首場分組賽將面對剛果民主共和國。    編輯：方潤南",
+      "pubDate": "Thu, 11 Jun 2026 07:29:44 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "FIFA世界盃2026：賽程及比分即時更新",
-      "link": "https://www.bbc.com/zhongwen/articles/cx211w7zkkeo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "由美國、加拿大和墨西哥共同主辦的2026年國際足聯（FIFA）世界杯決賽週於6月11日至7月19日舉行，BBC預備了互動模組，供查閲賽事安排、跟蹤比賽結果。",
-      "pubDate": "Fri, 12 Jun 2026 04:11:10 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "女雙拍檔受傷　「細威」皇后會盃復出之路或結束",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858063-20260611.htm",
+      "description": "強勢復出的網球「前一姐」莎蓮娜威廉絲，在皇后會盃之路出現變數。  「細威」的雙打拍檔晏寶高，在女單賽事對普利斯科娃時膝部受傷，最終退賽。  晏寶高跣低後按住膝蓋，表情痛苦，其後自行站起，步履蹣跚地走回座位，坐下後以毛巾掩面，隨後宣布退賽，流著眼淚離開球場。  晏寶高首盤以2:6落後，在第二盤時領先4:3。   編輯：方潤南",
+      "pubDate": "Thu, 11 Jun 2026 07:24:57 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "2026足球世界盃賽程海報  點擊這裡免費下載",
-      "link": "https://www.bbc.com/zhongwen/articles/cx21r3d9y1yo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "你可以從這裡下載並打印免費的2026世界盃賽程海報，全面追蹤這項全球最大足球盛事的每一場賽程與比賽結果。",
-      "pubDate": "Tue, 09 Jun 2026 06:33:19 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜恩芬天奴稱索馬里球證事件遺憾　但國際足協無法掌控一切",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858049-20260611.htm",
+      "description": "原定執法世界盃決賽周賽事，但被美國禁止入境的索馬里籍球證阿爾坦回國，受到英雄式歡迎，他說不會氣餒，會繼續為國爭光，誓言參與2030年世界盃決賽周。  國際足協會長恩芬天奴在世界盃開幕前夕的記者會上說，阿爾坦事件令人遺憾，但國際足協只是體育組織，無法掌控一切，亦無法凌駕各國政府之上。  有英國記者問恩芬天奴，阿爾坦事件及美國拒絕向伊朗隊15名工作人員發放簽證，是否顯示國際足協失去對本屆賽事的控制。  恩芬天奴回應說，希望2035年女子世界盃在英國舉行，但反問記者是否認為國際足協能夠左右英國政府容許哪些人入境，強調國際足協一直努力尋求解決方案。    編輯：許敬軒",
+      "pubDate": "Thu, 11 Jun 2026 04:53:05 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "法德戰鬥機計劃告吹，盟友在防務前景上出現分歧",
-      "link": "https://www.bbc.com/zhongwen/articles/cr5jmvg54zvo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "這項旗艦合作計劃，最終卻成為兩國分歧的顯著象徵。",
-      "pubDate": "Wed, 10 Jun 2026 08:27:41 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜揭幕戰本港時間明日凌晨墨西哥上演　各地球迷陸續抵埗",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858040-20260611.htm",
+      "description": "美墨加世界盃揭幕戰將於本港時間星期五凌晨3時展開，東道主之一的墨西哥將於首都墨西哥城體育場，迎戰南非，來自世界各地的球迷陸續抵埗。  今屆賽事預計為墨西哥帶來30億美元收入。為防範暴力事件，墨西哥當局加強保安，預計超過10萬名士兵、國民警衛隊成員和警員，部署在三個主辦城市。  面對教師工會罷工，以及一批失蹤人口的家屬計劃揭幕戰當日在墨西哥城抗議。總統辛鮑姆否認出現社會動盪，強調開幕式一切盡在掌握之中，但承認國際足協在墨西哥城中心廣場舉辦的球迷活動，可能在開幕日取消。    編輯：許敬軒",
+      "pubDate": "Thu, 11 Jun 2026 01:52:36 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "誘騙自己吃得更健康的七大方法",
-      "link": "https://www.bbc.com/zhongwen/articles/c621rmne9qeo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "我們或許以為自己能完全掌控飲食選擇，但其實我們的感官時刻在影響我們購買什麼、吃多少。以下教你如何反過來利用這些感官。",
-      "pubDate": "Wed, 10 Jun 2026 02:56:37 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜被美國拒絕入境的索馬里籍球證回國獲英雄式歡迎",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1858037-20260611.htm",
+      "description": "原定執法世界盃決賽周賽事，但被美國禁止入境的索馬里籍球證阿爾坦回國，受到英雄式歡迎，他誓言一定會出席2030年世界盃。  阿爾坦是2025年度非洲最佳球證，原本有望成為首位執法世界盃決賽周的索馬里籍球證，但他上周末被美國海關和邊境保護局拒絕入境。美國政府表示，拒絕阿爾坦入境是因為他與懷疑恐怖組織成員有聯繫。  阿爾坦被拒入境美國一事在索馬里引發強烈憤慨，他星期三返回索馬里首都摩加迪沙機場，獲官員及過百名支持者歡迎。  阿爾坦說，事情已經發生，形容是命運安排，感謝國際足協的支持，又說不會氣餒，將參與下屆賽事，繼續為國家爭光。  索馬里外交部說，對美國的決定深表遺憾，會繼續與相關方面溝通澄清事件，並維護公民的尊嚴和權利。    編輯：許敬軒",
+      "pubDate": "Thu, 11 Jun 2026 00:25:06 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
     },
     {
-      "title": "世界盃攻略：48隊賽制、分組與奪冠熱門一次掌握",
-      "link": "https://www.bbc.com/zhongwen/articles/c0q2jvpenj8o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "48強集結！史上最龐大的世界盃即將開幕，這篇簡易攻略助你一次看清美加墨賽事的賽制、分組、奪冠熱鬧以及可能的「黑馬」球隊。",
-      "pubDate": "Fri, 05 Jun 2026 00:10:27 GMT",
-      "source": "BBC 中文",
-      "category": "World",
+      "title": "世界盃｜衞生署「睇波攻略」：邊觀賽邊原地踏步　選擇較健康小食",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1857970-20260610.htm",
+      "description": "世界盃揭幕在即，今屆東道主包括美國、墨西哥和加拿大，賽事多於香港時間深夜及清晨進行 。衞生署發表「睇波攻略」，提醒球迷熬夜觀賞賽事要注意身體狀況，並設法維持健康生活模式，包括保持充足睡眠、適量運動和均衡飲食。  衞生署建議，市民在觀賞球賽之餘，應盡量參與各項體育活動，盡量避免久坐不動，可考慮一邊觀賽一邊原地踏步。由於部分人喜歡一邊觀看賽事，一邊佐以薯片、煎炸食物等香脆美味小食和高糖飲料，署方建議市民可選擇較健康的小食，例如焗薯片、焗番薯片、無添加鹽糖的原味焗果仁及低脂爆谷等，並控制分量，另外亦可以選擇以蔬果取代零食。飲品方面，應選擇無糖或低糖飲品，取代高糖飲品，避免飲酒。  署方又表示，在不影響睡眠的情況下，例如在周末或假期，家長可與子女一同觀看賽事或重播，支持喜愛的球隊，享受當中的樂趣和喜悅。這類輕鬆愉快的家庭時光，不僅可以紓緩日常生活壓力，亦有助促進家人之間的互動和情感交流，進一步鞏固良好的家庭關係。    編輯：譚佩貞",
+      "pubDate": "Wed, 10 Jun 2026 14:11:08 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
       "lang": "zh"
+    },
+    {
+      "title": "世界盃｜德國荷蘭西班牙EFH組角逐　G組必有隊伍首突破分組賽",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1857932-20260610.htm",
+      "description": "美墨加世界盃前瞻，幾支歐洲勁旅德國、荷蘭和西班牙分別於E、F和H組角逐，至於G組就有三支未曾突破決賽周分組賽，代表今屆最少會有一隊能改寫歷史。  當中E組由德國與厄瓜多爾、科特迪瓦及首次參與決賽周的庫拉索競逐。德國連續兩屆分組賽止步之後，處於世代交替、戰術革新階段，教練拿高士文主張高強度反搶及前場球員頻繁轉位的打法，並確立穆斯亞拿及穫斯為隊中核心。  厄瓜多爾在南美洲區外圍賽18場比賽只失5球，科特迪瓦更在非洲區外圍賽保持不失。庫拉索就由於荷蘭王國體制關係，可以徵召荷蘭出生及成長，符合代表庫拉索資格的球員。  F組方面，上屆八強球隊荷蘭，將會遇上日本、突尼斯與瑞典。荷蘭教練朗奴高文面臨球員傷患問題，主力法蘭基迪莊同迪比，都因傷缺席多場球會賽事後，趕及出戰世界盃。日本隊就有三笘薰以及南野拓實因傷無緣決賽周，但球隊前線仍然有久保建英等選擇。瑞典於附加賽連贏兩場出線，英超阿仙奴中鋒約基利斯屬功臣之一。突尼斯在法國前國腳林姆治執教後，棄用部份老將，將整體防守及紀律視為首要條件。  G組之中以2018年季軍比利時的決賽周往績最好，迪布尼及盧卡古今屆仍然在陣。同組球隊埃及、伊朗與新西蘭都未曾在分組賽出線，今屆最少有一隊能改寫歷史。  H組就有熱門球隊西班牙與烏拉圭角逐。西班牙保留歐洲國家盃冠軍隊骨幹，洛迪靴蘭迪斯是中場重心，配合翼鋒也馬，球隊比過往更著重向前推進及突破。而烏拉圭在上一代主力淡出後，倚重費達歷高華維迪領軍。佛得角歷史性入決賽周，將以全外流球員陣容參賽，同組的亞洲強隊沙特阿拉伯就以本土聯賽球員主導。    編輯：李俊傑",
+      "pubDate": "Wed, 10 Jun 2026 09:29:09 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
+      "lang": "zh"
+    },
+    {
+      "title": "國際友誼賽　中國男足主場0:0泰國",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1857921-20260610.htm",
+      "description": "國際友誼賽，中國男足主場同泰國賽和0:0。  國家隊全場控球率達六成六，24次射門，有6次射正。開賽3分鐘，張玉寧的射門中柱彈出。國家隊下半場持續施壓，並作出多次調動，但未能攻破泰國隊門將沙拉龍的十指關。  國足主教練邵佳一賽後表示，對球員的表現非常滿意，又說無論進攻還是防守，球員都表現出很強的專注力。    編輯︰張萬燕",
+      "pubDate": "Wed, 10 Jun 2026 07:39:00 +0800",
+      "source": "RTHK 体育 (ZH)",
+      "category": "sports",
+      "lang": "zh"
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "description": "Comments",
+      "pubDate": "Fri, 12 Jun 2026 04:42:53 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
     },
     {
       "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
       "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
       "description": "Comments",
       "pubDate": "Fri, 12 Jun 2026 00:38:11 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -718,17 +1710,8 @@
       "link": "https://tombedor.dev/human-attention-and-human-effort/",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 23:01:55 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
-      "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "description": "Comments",
-      "pubDate": "Fri, 12 Jun 2026 04:42:53 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -736,8 +1719,8 @@
       "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 13:24:29 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -745,8 +1728,8 @@
       "link": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
       "description": "Comments",
       "pubDate": "Tue, 09 Jun 2026 22:44:28 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -754,8 +1737,8 @@
       "link": "https://fablepool.com",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 21:17:30 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -763,8 +1746,17 @@
       "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
       "description": "Comments",
       "pubDate": "Fri, 12 Jun 2026 01:06:51 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Device Clock Generation (2025)",
+      "link": "https://zipcpu.com/blog/2025/12/17/devclk.html",
+      "description": "Comments",
+      "pubDate": "Fri, 12 Jun 2026 04:24:16 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -772,8 +1764,8 @@
       "link": "https://mimo.xiaomi.com/mimocode",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 14:27:19 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -781,26 +1773,8 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 12:05:02 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "Device Clock Generation",
-      "link": "https://zipcpu.com/blog/2025/12/17/devclk.html",
-      "description": "Comments",
-      "pubDate": "Fri, 12 Jun 2026 04:24:16 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "WikiLambda the Ultimate",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
-      "description": "Comments",
-      "pubDate": "Thu, 11 Jun 2026 17:14:42 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -808,8 +1782,8 @@
       "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 15:37:23 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -817,89 +1791,17 @@
       "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 22:59:22 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
-      "title": "Software is made between commits",
-      "link": "https://zed.dev/blog/introducing-deltadb",
+      "title": "WikiLambda the Ultimate",
+      "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
       "description": "Comments",
-      "pubDate": "Thu, 11 Jun 2026 16:28:24 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-      "link": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-      "description": "Comments",
-      "pubDate": "Tue, 09 Jun 2026 15:01:43 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "Ear Training Practice",
-      "link": "https://tonedear.com/",
-      "description": "Comments",
-      "pubDate": "Mon, 08 Jun 2026 16:38:07 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "Emacs appearances in pop culture",
-      "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "description": "Comments",
-      "pubDate": "Wed, 10 Jun 2026 10:37:45 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "Lines of code got a better publicist",
-      "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "description": "Comments",
-      "pubDate": "Thu, 11 Jun 2026 12:26:42 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "description": "Comments",
-      "pubDate": "Thu, 11 Jun 2026 16:03:21 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "The RCE that AMD wouldn't fix",
-      "link": "https://mrbruh.com/amd2/",
-      "description": "Comments",
-      "pubDate": "Thu, 11 Jun 2026 16:03:40 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "Reading for pleasure is sharply down among schoolkids, report shows",
-      "link": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
-      "description": "Comments",
-      "pubDate": "Wed, 10 Jun 2026 17:03:48 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
-      "lang": "en"
-    },
-    {
-      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
-      "link": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-      "description": "Comments",
-      "pubDate": "Mon, 08 Jun 2026 21:02:01 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "pubDate": "Thu, 11 Jun 2026 17:14:42 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -907,17 +1809,89 @@
       "link": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
       "description": "Comments",
       "pubDate": "Fri, 12 Jun 2026 00:42:11 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
-      "title": "How a new DSL may survive in the era of LLMs",
-      "link": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "link": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
       "description": "Comments",
-      "pubDate": "Thu, 11 Jun 2026 14:35:41 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "pubDate": "Tue, 09 Jun 2026 15:01:43 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Software is made between commits",
+      "link": "https://zed.dev/blog/introducing-deltadb",
+      "description": "Comments",
+      "pubDate": "Thu, 11 Jun 2026 16:28:24 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Ear Training Practice",
+      "link": "https://tonedear.com/",
+      "description": "Comments",
+      "pubDate": "Mon, 08 Jun 2026 16:38:07 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "description": "Comments",
+      "pubDate": "Thu, 11 Jun 2026 16:03:21 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Emacs appearances in pop culture",
+      "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "description": "Comments",
+      "pubDate": "Wed, 10 Jun 2026 10:37:45 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Lines of code got a better publicist",
+      "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "description": "Comments",
+      "pubDate": "Thu, 11 Jun 2026 12:26:42 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "The RCE that AMD wouldn't fix",
+      "link": "https://mrbruh.com/amd2/",
+      "description": "Comments",
+      "pubDate": "Thu, 11 Jun 2026 16:03:40 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Reading for pleasure is sharply down among schoolkids, report shows",
+      "link": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
+      "description": "Comments",
+      "pubDate": "Wed, 10 Jun 2026 17:03:48 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "link": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+      "description": "Comments",
+      "pubDate": "Mon, 08 Jun 2026 21:02:01 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -925,8 +1899,8 @@
       "link": "https://waymo.com/blog/2026/06/waymo-premier/",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 16:10:02 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -934,17 +1908,17 @@
       "link": "https://mtgautodeck.com/articles/mtg-bench/",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 16:01:01 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
-      "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
-      "link": "https://github.com/coder/boo",
+      "title": "How a new DSL may survive in the era of LLMs",
+      "link": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
       "description": "Comments",
-      "pubDate": "Thu, 11 Jun 2026 20:52:26 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "pubDate": "Thu, 11 Jun 2026 14:35:41 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -952,8 +1926,26 @@
       "link": "https://github.com/icitry/FPS.cob",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 15:13:57 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
+      "link": "https://github.com/coder/boo",
+      "description": "Comments",
+      "pubDate": "Thu, 11 Jun 2026 20:52:26 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
+      "lang": "en"
+    },
+    {
+      "title": "Open Reproduction of DeepSeek-R1",
+      "link": "https://github.com/huggingface/open-r1",
+      "description": "Comments",
+      "pubDate": "Thu, 11 Jun 2026 13:14:31 +0000",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
@@ -961,18 +1953,684 @@
       "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
       "description": "Comments",
       "pubDate": "Thu, 11 Jun 2026 17:35:19 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "source": "Hacker News (EN)",
+      "category": "tech",
       "lang": "en"
     },
     {
-      "title": "Faking keyword arguments to functions in C++",
-      "link": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
-      "description": "Comments",
-      "pubDate": "Tue, 09 Jun 2026 12:05:12 +0000",
-      "source": "Hacker News",
-      "category": "Tech",
+      "title": "特朗普手机是涂了金色的 2024 款 HTC U24 Pro",
+      "link": "https://www.solidot.org/story?sid=84557",
+      "description": "ifixit 的折解证实，2026 年上市的特朗普手机就是涂了一层金色的 2024 款 HTC U24 Pro。滑稽的是 Trump Mobile 以更高的价格卖出了比 HTC 更多的手机。HTC U24 Pro 售价大约 459 美元，仅售出了 1 万部，而  Trump Mobile 的特朗普手机售价 499 美元，售出了 3 万部。特朗普手机和 HTC U24 Pro 的主要区别是前者使用了美光的 12GB LPDDR5 和 512GB SSD，而后者的内存和 SSD 来自韩国的 SK Hynix，原因可能与供应链限制、关税等有关。",
+      "pubDate": "Fri, 12 Jun 2026 12:39:50 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "抗生素残留可能影响男性生育力",
+      "link": "https://www.solidot.org/story?sid=84556",
+      "description": "男性不育是当前全球生殖健康领域日益受到关注的问题。除遗传、激素异常和生殖系统疾病等已知原因外，环境暴露和生活方式因素也越来越受到重视。一些药物残留和环境污染物可能通过水体、土壤或食物链进入人体，但它们对男性生殖健康的潜在影响仍未被充分阐明。南京大学研究人员的一项研究探讨了环境暴露物奥硝唑对男性生育力的潜在影响。奥硝唑是一类可用于人类、畜禽和水产养殖领域的抗感染药物。研究人员首先分析了临床血清样本，发现少精子症患者血清奥硝唑水平高于健康对照人群。进一步分析显示，较高的血清奥硝唑水平与较低的精子浓度和总正常前向运动精子数显著相关，提示奥硝唑相关暴露可能与精子质量下降存在关联。研究人员称补充 Omega-3 脂肪酸 DHA 能显著改善奥硝唑诱导的生精功能损伤和减速分裂障碍。",
+      "pubDate": "Fri, 12 Jun 2026 11:22:38 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "东亚最高的树",
+      "link": "https://www.solidot.org/story?sid=84555",
+      "description": "研究人员在台大安溪附近发现了东亚已知最高的树，他们根据金庸小说将其命名为大安溪倚天劍。倚天劍高 84.1 米，树龄约一千年。世界上已知最高的树是加州红杉国家公园的 Hyperion，其高度约 116 米。台湾约 60% 的面积被森林覆盖，岛上估计有 9.5 亿棵树，其中有很多参天巨树。研究团队使用传统方法测量了倚天劍的高度：爬上树，从树顶垂下卷尺。",
+      "pubDate": "Fri, 12 Jun 2026 00:24:01 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "科技巨头大举借债",
+      "link": "https://www.solidot.org/story?sid=84553",
+      "description": "为了投资建设 AI 基础设施，科技巨头们正大举借债，规模达到了千亿美元。Google 母公司 Alphabet 一周前表示，计划过股票销售筹集 800 亿美元；Meta 宣布计划通过销售债券筹集 300 亿美元；亚马逊计划在加拿大发行债筹集 140 亿美元，紧跟着又与花旗、摩根大通、富国、汇丰和美银证券等达成协议借款约 175 亿美元总融资 315 亿美元。为了资助 AI 基础设施如芯片和数据中心，主要科技公司的支出都创下了历史新高。如此高的投资引发了回报相关的疑问。",
+      "pubDate": "Thu, 11 Jun 2026 23:52:37 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "游荡在 Fedora 项目的可疑 AI 智能体",
+      "link": "https://www.solidot.org/story?sid=84552",
+      "description": "5 月 27 日 Fedora 开发者 Adam Williamson 写邮件给 Nathan Giovannini，对由其账号控制的一个 AI 智能体提出疑问。该智能体过去几个月做了一系列令人感到可疑的事情：无缘无故修改 bug 的严重级别和优先级，伪造对 Bug 的回复，说服维护者将可疑代码合并到 Anaconda 安装程序，向上游项目递交了一系列 pull requests (PRs)，其中一部分已被接受。Giovannini 回应称他的账号被盗了，他不是该智能体的控制者。此事令社区联想到了曾引发广泛关注的 XZ 后门事件。在 XZ 后门事件中，化名为 JiaT75(Jia Tan)的攻击者通过在两年多时间里向项目积极贡献代码而获得信任，然后再通过施压而最终成为项目的共同维护者，得到了能悄悄在代码中植入后门的权限。在以大模型为代表的生成式 AI 时代，贡献代码比以往任何时候更轻松，这意味着攻击者可以使用智能体向开源项目积极贡献代码，积累信任，然后再发动攻击。该智能体使用的账号已经关闭，相关 PR 已经回滚。",
+      "pubDate": "Thu, 11 Jun 2026 23:30:34 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "OpenAI 称中国关联账户试图煽动美国反数据中心情绪 ",
+      "link": "https://www.solidot.org/story?sid=84551",
+      "description": "OpenAI 周三发布报告称，公司发现一些源自中国的账户利用 AI 生成英文社交媒体帖子，称数据中心推高了美国居民的电费。OpenAI 称，这些账户可能与一家未具名的中国私营科技公司有关。OpenAI 表示，这些帖子传播范围有限，但应引起外界对外国势力试图削弱美国战略性产业的关注。该公司补充称，美国对 AI 和数据中心存在“合理的讨论”，但这些账户通过伪装成普通美国民众，通过发布有争议的 AI 生成内容来试图操纵讨论。",
+      "pubDate": "Thu, 11 Jun 2026 17:05:29 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "酷澎因用户信息泄露被罚逾 6 千亿韩元",
+      "link": "https://www.solidot.org/story?sid=84550",
+      "description": "韩国电商巨头酷澎（coupang）因其数千万用户信息泄露被罚 6247 亿韩元（约合人民币 27.7 亿元）。韩国个人信息保护委员会认定，酷澎在认证签名密钥管理及访问控制等方面存在疏漏，基本安全管理体系不完善，导致约 3750 万名用户个人信息泄露，并就此处以 4235.75 亿韩元罚款。这是针对单一个人信息泄露事故开出的最高罚款。委员会还认定，酷澎在缺乏法律依据的情况下，擅自收集约 1117 万名访问其他公司网站和应用程序用户的在线活动记录，并在可识别个人身份的状态下将相关信息储存到数据库中，因此另行处以 2011.066 亿韩元罚款。",
+      "pubDate": "Thu, 11 Jun 2026 16:57:50 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "科学家发现最大鲸类墓地",
+      "link": "https://www.solidot.org/story?sid=84549",
+      "description": "中国科学院深海科学与工程研究所主导的“全球深渊探索计划”在东南印度洋迪亚曼蒂纳深渊观察到大量鲸类化石和完整鲸落生态系统。这里也成为目前全球已知深度最深、规模最大的鲸类化石群与鲸落分布区。鲸落是鲸鱼死亡后沉入海底形成的特殊生态系统。2023 年科考团队搭乘“探索一号”科考船，使用“奋斗者”号载人深潜器，在绵延 1200 公里的迪亚曼蒂纳深渊沟底完成 32 次下潜作业，在水深 4616 米至 7001 米处，共发现 5 处化能自养阶段的鲸落、476 处鲸类化石堆积。该区域鲸类遗骸密度达每平方公里 759.5 具，经推算，整片海域鲸类残骸总量或超 1000 万具。",
+      "pubDate": "Thu, 11 Jun 2026 16:44:25 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "Meta 放宽言论限制后对政客的威胁增加了两倍",
+      "link": "https://www.solidot.org/story?sid=84548",
+      "description": "Meta 去年以言论监管过严为由放宽了限制。Center for Countering Digital Hate(CCDH)的一项研究调查了这一变化带来的直接影响。研究人员分析了约 800 万 Facebook 评论，发现新规实施后六个月内，针对共和党和民主党议员的辱骂性和种族主义评论增加了两倍，暴力威胁和仇恨言论在同期内增加了三倍。研究人员还发现，针对特朗普总统的威胁增加了一倍多。研究人员表示，直接威胁总统生命安全的评论可能构成重罪。违反 Meta 有关暴力威胁政策的评论数量增至四倍，从政策改变前六个月的 1800 条增加到改变后六个月的 7600 条。仇恨言论评论也翻了两倍，从 6900 条增加到 30000条。违反 Meta 关于欺凌和骚扰规则的评论数量增加了一倍，从 15700 条增加到 39900 条。",
+      "pubDate": "Thu, 11 Jun 2026 16:13:28 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "Visa 支付网络集成 ChatGPT",
+      "link": "https://www.solidot.org/story?sid=84547",
+      "description": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没有透露双方合作的财务条款，也没有说明商家或顾客需要支付的费用详细信息。 Visa 表示，为保护消费者并最大限度减少欺诈，该功能将设置消费限额、需要批准的步骤以及仅限授权商家等安全措施。",
+      "pubDate": "Thu, 11 Jun 2026 15:11:37 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "美国太阳能发电量首次超过煤炭",
+      "link": "https://www.solidot.org/story?sid=84546",
+      "description": "根据能源智库 Ember 的分析，2026 年 5 月美国太阳能发电量首次超过煤炭：太阳能发电量占到了美国电力供应的 12.8%，煤炭则下降至 12.2%。五年前的 5 月煤炭发电量占美国发电量的 19.7%，太阳能发电量则仅占 5.4%。2026 年 5 月美国太阳能发电量达到创纪录的 45.5 TWh，比去年同期增长 17%，高于去年 7 月创下的纪录。太阳能发电量通常在六月或七月达到峰值，Ember 估计今年夏天可能会再次打破纪录。太阳能首次成为美国第三大电力来源，仅次于天然气和核能。煤炭发电量则在下滑，2026 年 4 月煤炭发电量创历史新低为 39.3 太TWh。5 月发电量小幅上升至 43.4 TWh，但比 2025 年 5 月低 11%。",
+      "pubDate": "Thu, 11 Jun 2026 14:53:14 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "人类习惯于左转逆时针行走",
+      "link": "https://www.solidot.org/story?sid=84545",
+      "description": "研究人员在疫情期间进行了一系列实验，观察在保持安全距离的情况下多少人能共享同一空间。在回看视频时，他们注意到大多数人都逆时针方向行走。这一意外发现促使科学家展开了更多实验，发现人类总是倾向于逆时针行走。他们的研究报告发表在《Nature Communications》期刊上。科学家尚不清楚这种偏好的来源。男性和女性都存在该偏好行为，儿童中间更为明显。动物中间也有类似行为，如岩蚁（rock ants）探索未知巢穴时偏好左转。科学家怀疑与生物机械学有关，但确切机制仍然是个谜团。奥运会的田径比赛最初让运动员沿顺时针跑道跑，但后来因运动员认为这种跑法不自然而改为沿逆时针跑道跑，原因这可能是人口中的右腿优势。",
+      "pubDate": "Thu, 11 Jun 2026 00:11:12 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "FCC 计划在美国推行手机实名制",
+      "link": "https://www.solidot.org/story?sid=84544",
+      "description": "美国联邦通信委员会(FCC)想要杀死匿名的一次性手机，计划通过法律强制要求电信公司存储手机用户的个人信息，相关个人信息包括政府颁发的身份识别号码和实际地址。此举引发了隐私倡导者和民权活动人士的担忧，认为美国在向专制国家看齐。FCC 给出的理由是打击诈骗，旨在阻止诈骗分子接入电信网络，“执法人员能更好地识别诈骗分子”。FCC 将这些措施比作银行为防止洗钱而收集的数据。",
+      "pubDate": "Wed, 10 Jun 2026 23:39:04 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "npm v12 将不再自动执行依赖项",
+      "link": "https://www.solidot.org/story?sid=84543",
+      "description": "在 Node.js 生态系统发生了一系列严重安全事件之后，npm 管理工具的下一个大版本 v12 将在安全方面进行重大调整：除非明确允许，npm install 不再自动执行依赖项的 preinstall、install、postinstall 脚本。来自 Git、文件和链接依赖项的准备脚本也会以同样的方式被阻止。npm v12 将于 2026 年 7 月推出。",
+      "pubDate": "Wed, 10 Jun 2026 22:54:53 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "双星系统的化学构成差异揭示了行星被恒星吞噬的命运",
+      "link": "https://www.solidot.org/story?sid=84542",
+      "description": "天文学家研究一个名为 HD 81809 的特殊双星系统时，发现两颗同时诞生的恒星拥有截然不同的化学组成。一般而言，双星诞生于同一个分子云，因此元素组成通常相当接近。但在 HD 81809 系统中，其中一颗恒星的铁含量明显偏低，而另一颗则拥有接近太阳的金属丰度，两颗恒星的铁元素含量相差约 3.7 倍，远超过一般双星演化模型能解释的范围。天文学家因此怀疑，其中一颗恒星可能曾吞噬自己的行星，改变了表面的化学组成。HD 81809 双星系统距离地球约 113 光年，由两颗类似太阳的 G 型恒星组成。其中主星 HD 81809A 已演化成次巨星，另一颗 HD 81809B 则仍停留在主序星阶段。这个系统年龄约达 100 亿年。除了铁元素异常外，HD 81809B 还具有偏高的锂元素含量。由于低质量老年恒星通常会在演化过程中逐渐耗尽锂元素，因此这种高锂元素含量现象，被视为可能曾发生行星吞噬事件的重要线索。研究人员发现，如果要让 HD 81809B 的金属量提升至目前观测值，恒星必须在近期吞噬约 25 至 75 个地球质量的富金属物质，相当于海王星到土星之间的金属核心总量。",
+      "pubDate": "Wed, 10 Jun 2026 22:33:28 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "半导体月销售额首次突破 1100 亿美元 ",
+      "link": "https://www.solidot.org/story?sid=84541",
+      "description": "美国半导体行业协会（SIA）公布的数据显示，4 月全球半导体销售额同比增长 93.9% 达到 1104.8 亿美元。半导体销售额已连续 30 个月实现同比增长，环比增幅为 11%。除销量增长外，价格也显著上升。8GB DDR4 内存价格一年内涨至约 9 倍。三大内存厂商三星电子、SK 海力士和美光科技优先生产 AI 用内存产品，导致通用内存产品的供求关系趋于紧张。按区域来看，拉动销售额增长的是美国和亚洲。",
+      "pubDate": "Wed, 10 Jun 2026 22:14:18 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "德国法庭裁决 Google 要对 AI Overviews 内容承担责任",
+      "link": "https://www.solidot.org/story?sid=84540",
+      "description": "德国慕尼黑地区法庭裁决，Google 要对 AI Overviews 内容承担责任，因为 AI Overviews 是 Google 自己的内容，并非搜索结果列表。本案的原告是两家慕尼黑出版商，他们指控 Google 的 AI Overviews 错误将其与诈骗、订阅陷阱等不正当商业行为关联起来，他们向 Google 发去了禁止通知函(cease-and-desist letter)，但搜索巨人未正确回应。法院认为，Google 的 AI Overviews 与传统搜索结果不同，AI 会“用自己的语言按照自己的结构”重写和评判搜索结果，而它引用的链接与其内容有矛盾，因此该内容是 Google 自己的陈述。Google 开发了 AI，将其提供给用户，因此 Google 拥有 AI 所生成内容的所有权，“因为只有 Google 才能影响 AI 提供的服务以及 AI 运行所使用的算法。”搜索引擎责任规则不适用于 AI 搜索。",
+      "pubDate": "Wed, 10 Jun 2026 18:53:49 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "比亚迪一年 200 次 OTA，次数远超竞争对手",
+      "link": "https://www.solidot.org/story?sid=84538",
+      "description": "威尔森的数据显示，2025 年比亚迪针对自身“海洋”和“王朝”系列车型实际进行了 200 次软件更新（Over the Air 或 OTA），在汽车企业中次数最多。特斯拉在中国国内更新软件的次数为 16 次，丰田为 8 次，大众为 5 次。比亚迪之所以能够频繁更新软件，是因为 OTA 所需要的半导体、作为通信基础的操作系统、实际运行的硬件全部自主开发。相关负责人表示：“只要是自主设计，就可以迅速且准确地实现更新”。在价格竞争加剧导致中国国内销量下滑的背景下，比亚迪的目的是通过 OTA 来提升吸引力、扩大销售。",
+      "pubDate": "Wed, 10 Jun 2026 16:23:13 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "Starlink 硬件从一次性付费转向月租",
+      "link": "https://www.solidot.org/story?sid=84537",
+      "description": "Starlink 硬件从一次性付费转向 10 美元月租费。Starlink 硬件包括一个接收卫星信号的终端和一个放在家中的路由器。该费用不包含在网络服务费中。Starlink 的 100Mbps 套餐每月收费 55 美元，200Mbps 套餐每月收费 85 美元，400Mbps 的 Max 套餐每月收费 130 美元。Starlink 还提供专业安装服务，一次性收费 199 美元，Max 套餐用户免收安装费。",
+      "pubDate": "Wed, 10 Jun 2026 16:14:20 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "Google Chrome 准备移除对 Manifest V2 的支持，杀死 uBlock Origin ",
+      "link": "https://www.solidot.org/story?sid=84536",
+      "description": "Google Chrome 准备完全移除对 Manifest V2 的支持，彻底杀死 uBlock Origin。Chrome 将只支持 Manifest v3 扩展，开发者声称 Chrome 默认禁用 Manifest V2 扩展已有一年多时间，继续支持相关功能存在技术上的挑战，Chrome 未来发布的版本将逐步移除 Manifest V2 相关功能，最终彻底将其移除：Chromium 150 移除 ExtensionManifestV2Disabled 选项，Chromium 151 将移除 ExtensionManifestV2Unsupported 选项，Chromium 151 将移除 ExtensionManifestV2Availability 选项，Chromium 151 预计将移除 AllowLegacyMV2Extensions 选项。基于 Chromium 的浏览器预计将会跟随，主要浏览器开发商中 Mozilla 公开声明会继续支持 Manifest v2 扩展。流行的广告屏蔽扩展 uBlock Origin 基于 Manifest V2，想要继续使用该扩展的用户可能只能迁移到 Firefox 了。",
+      "pubDate": "Wed, 10 Jun 2026 15:39:31 +0800",
+      "source": "Solidot (ZH)",
+      "category": "tech",
+      "lang": "zh"
+    },
+    {
+      "title": "The World Cup of adverts: How brands are competing to entertain, not simply sell",
+      "link": "https://www.bbc.com/news/articles/c992v43m71do?at_medium=RSS&at_campaign=rss",
+      "description": "Kim Kardashian, Timothée Chalamet and Susan Boyle feature in ambitious ads ahead of the World Cup.",
+      "pubDate": "Fri, 12 Jun 2026 04:18:53 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
       "lang": "en"
+    },
+    {
+      "title": "Do not use my music, Ariana Grande tells White House",
+      "link": "https://www.bbc.com/news/articles/c9328k7j2n4o?at_medium=RSS&at_campaign=rss",
+      "description": "Grande called a White House video using her song Bye \"heinous nonsense\", joining multiple artists demanding Trump's team not use their music.",
+      "pubDate": "Fri, 12 Jun 2026 01:53:30 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "What do Puerto Ricans think of the viral song about their homeland?",
+      "link": "https://www.bbc.com/news/articles/cwy0v85ldyjo?at_medium=RSS&at_campaign=rss",
+      "description": "People from Puerto Rico reflect on how the catchy tune has attracted attention to where they live.",
+      "pubDate": "Fri, 12 Jun 2026 05:34:56 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
+      "link": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
+      "description": "The pop star discusses the difficulty of writing happy songs, and her Glastonbury anxiety attack.",
+      "pubDate": "Wed, 10 Jun 2026 23:09:25 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "'I haven't left my house, I'm scared', says Mean Girls actor as Belfast shows cancelled over violence",
+      "link": "https://www.bbc.com/news/articles/cwyex90nkvgo?at_medium=RSS&at_campaign=rss",
+      "description": "The Mean Girls musical's run in Belfast is cancelled following disorder in the city.",
+      "pubDate": "Thu, 11 Jun 2026 14:05:00 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "Dani Dyer returns to Strictly a year after pulling out with broken ankle",
+      "link": "https://www.bbc.com/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
+      "description": "\"Hopefully this time around I can actually make it to week one,\" the TV and social media star says.",
+      "pubDate": "Thu, 11 Jun 2026 11:20:46 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "Anger over Epstein and Andrew fuels festival of 'female anarchy'",
+      "link": "https://www.bbc.com/news/articles/c626y417gpqo?at_medium=RSS&at_campaign=rss",
+      "description": "Dozens of female playwrights unite to express their \"seismic rage\" in an ambitious theatrical event.",
+      "pubDate": "Wed, 10 Jun 2026 23:05:49 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "Taylor Swift, Timothée  Chalamet and Haim among fans at New York's NBA Finals",
+      "link": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss",
+      "description": "Wednesday's result means the team are now just one win away from a famous Finals win.",
+      "pubDate": "Thu, 11 Jun 2026 11:58:14 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "Mis-Teeq on reuniting, UK garage and Alesha Dixon's ad libs",
+      "link": "https://www.bbc.com/news/articles/cr47l4qwx35o?at_medium=RSS&at_campaign=rss",
+      "description": "The noughties girl group are back for a reunion gig to celebrate the 25th anniversary of their debut album.",
+      "pubDate": "Thu, 11 Jun 2026 12:22:37 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "BBC cancels Doctor Who Christmas special and Russell T Davies announces exit",
+      "link": "https://www.bbc.com/news/articles/c621ln7vx7qo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC said the decision was made \"after careful consideration\" and had \"not been taken lightly\".",
+      "pubDate": "Wed, 10 Jun 2026 11:43:14 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "Cast announced for new series of Peaky Blinders",
+      "link": "https://www.bbc.com/news/articles/cr47rrep4vwo?at_medium=RSS&at_campaign=rss",
+      "description": "The seventh series of the TV show is being filmed in and around Digbeth Loc. Studios in Birmingham.",
+      "pubDate": "Thu, 11 Jun 2026 18:28:11 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "French singer Patrick Bruel under formal investigation for rape",
+      "link": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
+      "description": "Bruel was released from custody under judicial supervision while an examining magistrate looks more deeply into the case.",
+      "pubDate": "Thu, 11 Jun 2026 08:29:57 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "From bands to bags to beer bins - everything you need to know ahead of Download festival",
+      "link": "https://www.bbc.com/news/articles/c2e22venmy7o?at_medium=RSS&at_campaign=rss",
+      "description": "Donington Park is gearing up to host the UK's biggest festival of rock and metal music.",
+      "pubDate": "Wed, 10 Jun 2026 05:18:58 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "Your middle-aged friend starts dating your daughter - drama explores what happens next",
+      "link": "https://www.bbc.com/news/articles/cy02r2863k4o?at_medium=RSS&at_campaign=rss",
+      "description": "The new drama centres on Alice discovering best friend Steve is dating her 26-year-old daughter.",
+      "pubDate": "Fri, 05 Jun 2026 23:08:53 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+      "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+      "description": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+      "pubDate": "Sat, 06 Jun 2026 02:28:56 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "'Traitor' - Elmo in hot water with New Yorkers over Knicks NBA finals",
+      "link": "https://www.bbc.com/news/articles/cn0p0nzej66o?at_medium=RSS&at_campaign=rss",
+      "description": "The Sesame Street character, whose fictional home is in New York, was called a traitor after not fully backing the city's basketball team.",
+      "pubDate": "Sat, 06 Jun 2026 01:44:41 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara",
+      "link": "https://www.bbc.com/news/articles/c1k2dml10ezo?at_medium=RSS&at_campaign=rss",
+      "description": "The Bulgarian singer says her historic victory in Vienna came close to never happening.",
+      "pubDate": "Fri, 05 Jun 2026 23:26:21 GMT",
+      "source": "BBC Entertainment (EN)",
+      "category": "entertainment",
+      "lang": "en"
+    },
+    {
+      "title": "世界盃墨西哥揭幕：夏奇拉熱鬧開唱，場外數百人抗議",
+      "link": "https://www.bbc.com/zhongwen/articles/c1eyljze87xo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在墨西哥城的開幕典禮星光雲集，然而阿茲特克體育場周邊也出現警方與抗議者之間的零星衝突。",
+      "pubDate": "Fri, 12 Jun 2026 02:06:59 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "特朗普稱伊朗停戰協議接近完成，德黑蘭稱未有定案",
+      "link": "https://www.bbc.com/zhongwen/articles/cr7xvmrjkyeo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "美國總統表示已達成一項「重大和解」以結束衝突；伊朗則稱相關達成協議的報導「純屬猜測」。",
+      "pubDate": "Fri, 12 Jun 2026 05:05:08 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "香港反修例示威七週年：政府推出「正向教育」活動，當年被捕的年輕人會買賬嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c3629p9n6ejo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "香港保安局推出的「特別項目」，保安局局長鄧炳強稱，是為未被檢控的人士提供「更生機會」。",
+      "pubDate": "Fri, 12 Jun 2026 01:57:36 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但你又可以怎麼樣？」",
+      "link": "https://www.bbc.com/zhongwen/articles/c621r56739no/trad?at_medium=RSS&at_campaign=rss",
+      "description": "日前有網絡影片顯示，一名籃球教練抓着學生的手掌摑其面部，圍觀學生和助教均無阻止，引發討論。事實上，香港早已立法禁止老師體罰學生。但在競技運動上，是怎樣的權力架構和空間，仍然默許體罰存在？",
+      "pubDate": "Thu, 11 Jun 2026 08:45:04 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "泰國當局判處兩維吾爾人死刑　BBC記者回憶當年的曼谷四面佛爆炸案",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yz48282n4o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "2015年造成20人死亡、120人受傷的泰國曼谷四面佛爆炸案一審判刑，當年遇難者中包括七名中國大陸與香港居民。",
+      "pubDate": "Fri, 12 Jun 2026 02:18:52 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "傳說中的「亞洲蹲」，竟對我們的健康至關重要？",
+      "link": "https://www.bbc.com/zhongwen/articles/ckg07yrjg98o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "遊客嘗試做出亞洲式深蹲的影片不斷在網路上出現——但專家指出，這種姿勢引發的關注，其實反映出一個更大的問題：隨著年齡增長，維持良好身體活動能力的重要性。",
+      "pubDate": "Wed, 10 Jun 2026 08:49:31 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "美加墨世界盃規模空前，卻因政治因素而代價高昂",
+      "link": "https://www.bbc.com/zhongwen/articles/cj3gm6884eyo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "有一點似乎肯定：在賽場的精彩以外，這場規模空前的世界盃，可能會成為史上最具爭議的賽事之一。",
+      "pubDate": "Thu, 11 Jun 2026 06:30:44 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
+      "link": "https://www.bbc.com/zhongwen/articles/cpv3zj4lepvo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "一部投資僅1400萬人民幣的中國潮汕方言電影《給阿嬤的情書》，以素人演員與樸實敘事成為今年大陸票房黑馬，累計已突破16億。故事聚焦潮汕阿嬤半生守候在海外的丈夫，孫子因債務遠赴泰國尋親，意外揭開跨越70多年的僑批秘密。這部電影為何大賣?",
+      "pubDate": "Thu, 11 Jun 2026 00:20:22 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "伊朗與美國難以維持停火的四大原因",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yzxn14z3wo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "美國與伊朗4月初達成的停火協議，在新一波地區攻擊後嚴重動搖。特朗普與伊朗互放狠話，衝突升級。專家指出四大原因：伊朗認為停火未解決核心問題、以色列持續軍事行動、升級已成談判策略，以及美國影響力有限。",
+      "pubDate": "Thu, 11 Jun 2026 06:51:27 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "《嘆春風》與中國「男色經濟」：女性慾望如何變成一門生意？",
+      "link": "https://www.bbc.com/zhongwen/articles/c4g5nnd6v3do/trad?at_medium=RSS&at_campaign=rss",
+      "description": "《嘆春風》的走紅讓女性慾望首次以公開、集體的方式進入公共空間。當女性成為觀看者時，市場也迅速學會了向她們出售「情緒價值」。",
+      "pubDate": "Wed, 10 Jun 2026 23:54:00 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "印度洋海底發現大面積鯨墓地，可追溯至500多萬年前",
+      "link": "https://www.bbc.com/zhongwen/articles/c07y93jm020o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "印度洋東南部深約7公里處發現了一個長約1200公里的巨大鯨墓地。",
+      "pubDate": "Thu, 11 Jun 2026 05:29:24 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "《火影忍者》：美國總統特朗普使用動漫角色引發日本輿論反彈",
+      "link": "https://www.bbc.com/zhongwen/articles/crelzy140yno/trad?at_medium=RSS&at_campaign=rss",
+      "description": "特朗普（川普）用《火影忍者》鳴人、《寶可夢》等日本動漫角色宣傳，引發日本網友反彈。近兩萬人連署請願，批評違背角色精神與創作者價值。寶可夢公司已正式發聲。有人批評「別拿我們的英雄搞政治」，但同時也有聲音認為這無傷大雅。",
+      "pubDate": "Thu, 11 Jun 2026 05:18:18 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "「我感覺更輕鬆，更開放」：誰說老年人不宜做心理治療",
+      "link": "https://www.bbc.com/zhongwen/articles/c892v4lq32wo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "精神分析學創始人佛洛伊德曾認為超過40或50歲後，心理治療效果會下降。但有學者指出，事實上「研究顯示情況正好相反」。",
+      "pubDate": "Thu, 11 Jun 2026 23:37:01 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "香港籃球教練體罰爭議 前學員打破沉默",
+      "link": "https://www.bbc.com/zhongwen/articles/cj9gnmkk28ro/trad?at_medium=RSS&at_campaign=rss",
+      "description": "一條香港中學籃球教練在操場掌摑學生的網絡影片，揭開了本地體育界仍然存在的體罰與高壓文化。涉事教練翁金驊已被停職並因涉嫌「普通襲擊」被警方拘捕。多位曾接受其執教的香港大學及中學前球員打破沉默，公開講述自身經歷。",
+      "pubDate": "Thu, 11 Jun 2026 09:58:32 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "球員大腦揭秘：「心流狀態」現代足球的致勝關鍵？",
+      "link": "https://www.bbc.com/zhongwen/articles/cx23nrx02jzo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "四年一度的全球足球盛事又來了，各國頂級球星在美加墨賽場上競逐世界盃。足球在球員腳邊電光火石來回的瞬間，你有想過他們的大腦怎麼運作嗎？在現代足球運動中，勝負差距愈來愈窄，頂尖球隊正轉向神經科學尋求贏球之道。BBC帶你了解揭開足球員的大腦秘密，以及球圈的最新技術。",
+      "pubDate": "Thu, 11 Jun 2026 05:01:10 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "情誼還是籌碼？習近平出訪朝鮮，能否在俄朝關係中重奪主導地位？",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8kd2pp9pro/trad?at_medium=RSS&at_campaign=rss",
+      "description": "中國國家主席習近平於6月8日至9日訪問朝鮮。此行是他自2019年以來，時隔近七年的再次到訪平壤。此行也是習近平2026年首次出訪，而在數週前，他在北京分別會見美俄元首。分析指，這一系列外交行程反映了中國與這個不穩定的鄰國之間的同盟關係，主要目的在於增加地緣政治籌碼，而非單純宣示友誼。",
+      "pubDate": "Mon, 08 Jun 2026 12:46:35 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "韓國選舉「缺票」抗議延燒 票站職員重組事發經過",
+      "link": "https://www.bbc.com/zhongwen/articles/c05yg6nze0no/trad?at_medium=RSS&at_campaign=rss",
+      "description": "韓國6月3日舉行地方選舉，卻有部分票站選票不足，導致選民無法投票，引發多日示威和爭議聲浪。BBC韓語組訪問地方公務員朴敏（化名），他被派往涉事選區之一松坡區擔任票站職員，憶述事發經過。事件延燒數天，選委會主席宣布辭職，但會方認為缺票事件不構成延期或重選的理由。總統李在明下令調查事件原因。",
+      "pubDate": "Mon, 08 Jun 2026 14:27:41 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "鄭麗文展開訪美行程：聚焦向美方釋疑與2028總統大選佈局",
+      "link": "https://www.bbc.com/zhongwen/articles/c2d290gw1zko/trad?at_medium=RSS&at_campaign=rss",
+      "description": "台灣最大在野黨中國國民黨主席鄭麗文於6月1日啟程訪問美國，展開為期16天的行程，將造訪舊金山、波士頓、紐約、華盛頓及洛杉磯。",
+      "pubDate": "Wed, 03 Jun 2026 09:36:07 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "台積電財務長黃仁昭BBC專訪：經營成本上升，晶片不排除加價",
+      "link": "https://www.bbc.com/zhongwen/articles/cp9lzne9159o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在一場罕有的專訪中，這名台積電高層主管談到人工智能熱潮、晶片的地緣政治，以及這對電子產品價格意味著什麼。",
+      "pubDate": "Tue, 09 Jun 2026 23:05:02 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "在股市升空的SpaceX，可能是馬斯克迄今最大的一次豪賭",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyler2v78ko/trad?at_medium=RSS&at_campaign=rss",
+      "description": "SpaceX正籌備進軍股市，此舉可能改變公司發展、整體市場格局以及馬斯克的財富版圖。",
+      "pubDate": "Wed, 10 Jun 2026 00:06:32 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "「伊萬卡，回家去！」特朗普家族項目引發阿爾巴尼亞民眾抗議",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2vl79lgrqo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "該計劃涵蓋薩贊島以及一段尚未開發、鄰近受保護濕地的海岸線，當地是火烈鳥、海豹及海龜的重要棲息地。",
+      "pubDate": "Mon, 08 Jun 2026 05:42:21 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "人形機械人會走向戰場嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c8720nd3jpqo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "各國軍方正測試人形機械人，但距離實際部署於戰場仍有一段距離。",
+      "pubDate": "Tue, 09 Jun 2026 08:09:41 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "霍爾木茲海峽封鎖數月後  那些被困海上的船隻和海員",
+      "link": "https://www.bbc.com/zhongwen/articles/cq8plyd8p1wo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "國際海事組織估計，仍有1,600艘船隻被困在霍爾木茲海峽的另一側，無法離開。",
+      "pubDate": "Wed, 03 Jun 2026 09:45:58 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "小紅書轉播足球世界盃了，播球和看球的女性還會被視為「花瓶」嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y719lzn6po/trad?at_medium=RSS&at_campaign=rss",
+      "description": "女性觀眾或者從業者的存在受到質疑、歧視乃至騷擾的問題一直存在。據稱女性用戶佔70%的「小紅書」拿下2026年世界盃版權，一個女性友好的平台成為官方轉播商，會使這種現象有所改變嗎？",
+      "pubDate": "Tue, 09 Jun 2026 01:10:36 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "國足無緣世界盃，裁判馬寧成為中國球迷追捧對象",
+      "link": "https://www.bbc.com/zhongwen/articles/cvg57924klno/trad?at_medium=RSS&at_campaign=rss",
+      "description": "以執法風格嚴厲著稱的馬寧作為世界盃裁判，由此引發網絡迷因和品牌贊助。",
+      "pubDate": "Wed, 10 Jun 2026 05:39:18 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "習近平結束訪朝：不提「無核化」 重打「貿易牌」 對半島意味著什麼",
+      "link": "https://www.bbc.com/zhongwen/articles/cx260z3k8yjo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "「金正恩變得更大膽了。只要他不製造地區性動蕩，北京就不會試圖阻止他。」這便是「默許」的精確定義：不是同意，而是不攔。",
+      "pubDate": "Tue, 09 Jun 2026 10:21:37 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "中國房地產巨頭退潮途中  國資如何對待當年的政府「包稅人」",
+      "link": "https://www.bbc.com/zhongwen/articles/cx21j3x28zpo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "中國房地產巨頭退場途中大多有國有資本的參與。有的被「國資乾爹」接管，有的被「國資清算人」拆解，有的被「國資站台者」敷衍。一隻看不見的手，似乎正在按照一套清晰的優先級，逐一處置過去的「包稅人」。",
+      "pubDate": "Sun, 07 Jun 2026 13:13:21 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "印太新局？日本與菲律賓最新軍事經濟結盟為何引發中國抗議",
+      "link": "https://www.bbc.com/zhongwen/articles/cx21293v800o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "日菲兩國宣佈正式啟動太平洋專屬經濟區劃界談判，這個被視為強化「第一島鏈」的戰略舉動立即引發中國強烈抨擊，稱有關舉動「完全非法且無效」，並派遣海警巡弋台灣東部海域。",
+      "pubDate": "Fri, 05 Jun 2026 08:30:13 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "「幼態臉」、「精靈耳」與「天鵝頸」 台灣人為何開始到上海「跨境醫美」?",
+      "link": "https://www.bbc.com/zhongwen/articles/cx2187dxwk4o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "受小紅書、抖音審美影響，台灣年輕人紛紛直奔上海跨境醫美。台灣網紅或求診者砸數百萬台幣改造。從「幼態臉」到「天鵝頸」，中國式少女風的醫美風讓一些人趨之若鶩，但背後風險與資訊落差也引發關注。",
+      "pubDate": "Mon, 08 Jun 2026 00:20:32 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄？",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgpgk74l0xo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "張先生有種感覺，他覺得門正在關上。他要趁門完全關緊之前，把自己的資金往外送一些。但出來一看，很多人都有同樣的想法，所以大家都在排著隊。",
+      "pubDate": "Fri, 05 Jun 2026 09:31:05 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "中國「八九」民運37週年：在傳承和記憶斷層間掙扎的「六四二代」",
+      "link": "https://www.bbc.com/zhongwen/articles/c8099evp0jmo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "六四事件37年後，當年親歷者的下一代都各自長大成人，這些年間，他們經歷了什麼？",
+      "pubDate": "Thu, 04 Jun 2026 00:26:18 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy203759ywo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "5月1日，兩名港人結伴攀爬日本飛驒山脈，因天氣惡化受困，最後僅一人生還。倖存者向BBC中文憶述經歷。",
+      "pubDate": "Fri, 29 May 2026 00:23:00 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
+      "link": "https://www.bbc.com/zhongwen/articles/c152l37yvyyo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "學者從機密檔案、縣誌研究和政治運動模式，分析「大屠殺」如何發生、誰應負責，以及其對當代中國政治文化的影響。",
+      "pubDate": "Sat, 16 May 2026 01:45:07 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "FIFA世界盃2026：賽程及比分即時更新",
+      "link": "https://www.bbc.com/zhongwen/articles/cx211w7zkkeo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "由美國、加拿大和墨西哥共同主辦的2026年國際足聯（FIFA）世界杯決賽週於6月11日至7月19日舉行，BBC預備了互動模組，供查閲賽事安排、跟蹤比賽結果。",
+      "pubDate": "Fri, 12 Jun 2026 04:11:10 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "2026足球世界盃賽程海報  點擊這裡免費下載",
+      "link": "https://www.bbc.com/zhongwen/articles/cx21r3d9y1yo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "你可以從這裡下載並打印免費的2026世界盃賽程海報，全面追蹤這項全球最大足球盛事的每一場賽程與比賽結果。",
+      "pubDate": "Tue, 09 Jun 2026 06:33:19 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "法德戰鬥機計劃告吹，盟友在防務前景上出現分歧",
+      "link": "https://www.bbc.com/zhongwen/articles/cr5jmvg54zvo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "這項旗艦合作計劃，最終卻成為兩國分歧的顯著象徵。",
+      "pubDate": "Wed, 10 Jun 2026 08:27:41 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "誘騙自己吃得更健康的七大方法",
+      "link": "https://www.bbc.com/zhongwen/articles/c621rmne9qeo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "我們或許以為自己能完全掌控飲食選擇，但其實我們的感官時刻在影響我們購買什麼、吃多少。以下教你如何反過來利用這些感官。",
+      "pubDate": "Wed, 10 Jun 2026 02:56:37 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
+    },
+    {
+      "title": "世界盃攻略：48隊賽制、分組與奪冠熱門一次掌握",
+      "link": "https://www.bbc.com/zhongwen/articles/c0q2jvpenj8o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "48強集結！史上最龐大的世界盃即將開幕，這篇簡易攻略助你一次看清美加墨賽事的賽制、分組、奪冠熱鬧以及可能的「黑馬」球隊。",
+      "pubDate": "Fri, 05 Jun 2026 00:10:27 GMT",
+      "source": "BBC 娱乐 (ZH)",
+      "category": "entertainment",
+      "lang": "zh"
     }
   ]
 }
