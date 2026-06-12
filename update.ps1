@@ -1,4 +1,4 @@
-# Antigravity Dashboard Scraper Script
+﻿# Antigravity Dashboard Scraper Script
 
 Write-Host "=============================================" -ForegroundColor Cyan
 Write-Host "   Antigravity Daily News Scraper Dashboard  " -ForegroundColor Cyan
