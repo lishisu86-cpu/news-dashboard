@@ -925,3 +925,195 @@ footer strong {
         grid-template-columns: 1fr;
     }
 }
+
+/* ==========================================================================
+   2026 World Cup Premium Betting Odds Layout (Added for Real-Time Sports Tab)
+   ========================================================================== */
+
+/* World Cup Match Odds Styling */
+.match-odds {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    padding: 0.6rem 0.8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.match-odds.finished {
+    opacity: 0.55;
+}
+
+.odds-header {
+    font-size: 0.68rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    padding-bottom: 0.2rem;
+}
+
+.odds-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.odds-item {
+    font-size: 0.75rem;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    color: var(--text-secondary);
+}
+
+.odds-item em {
+    font-style: normal;
+    color: var(--accent-blue);
+    font-weight: 700;
+    background: rgba(59, 130, 246, 0.1);
+    padding: 1px 4px;
+    border-radius: 4px;
+    font-size: 0.65rem;
+}
+
+.odds-item strong {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+/* Championship Outright Winner Grid */
+.championship-odds-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+@media (max-width: 768px) {
+    .championship-odds-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.champ-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-color);
+    backdrop-filter: blur(var(--glass-blur));
+    border-radius: 16px;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: var(--transition-smooth);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.champ-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 0 6px 20px rgba(255, 255, 255, 0.03);
+}
+
+.champ-rank {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: var(--accent-blue);
+    background: rgba(59, 130, 246, 0.08);
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(59, 130, 246, 0.2);
+}
+
+.champ-team {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex: 1;
+}
+
+.champ-flag {
+    font-size: 1.8rem;
+}
+
+.champ-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+}
+
+.champ-name {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.champ-desc {
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+}
+
+.champ-odds-data {
+    display: flex;
+    gap: 0.75rem;
+}
+
+.odds-box, .prob-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: 10px;
+    padding: 0.4rem 0.6rem;
+    min-width: 60px;
+}
+
+.odds-label, .prob-label {
+    font-size: 0.6rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.15rem;
+}
+
+.odds-value {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--accent-green);
+}
+
+.prob-value {
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--accent-blue);
+}
+
+/* Match badges helper classes */
+.match-badge.badge-live {
+    background-color: rgba(59, 130, 246, 0.12);
+    border-color: rgba(59, 130, 246, 0.3);
+    color: var(--accent-blue);
+}
+
+.match-badge.badge-ft {
+    background-color: rgba(255, 255, 255, 0.03);
+    border-color: rgba(255, 255, 255, 0.05);
+    color: var(--text-secondary);
+}
+
+.match-badge.badge-scheduled {
+    background-color: rgba(16, 185, 129, 0.08);
+    border-color: rgba(16, 185, 129, 0.2);
+    color: var(--accent-green);
+}
+

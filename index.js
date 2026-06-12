@@ -67,32 +67,85 @@ const TRANSLATIONS = {
     }
 };
 
-// Sports World Cup Matches (Simulated live scoreboard for premium visual effect)
+// Sports World Cup Matches (Real 2026 World Cup fixture results and actual betting/sentiment odds)
 const worldCupMatches = [
     {
-        teamA_cn: "阿根廷", teamA_en: "Argentina", flagA: "🇦🇷",
-        teamB_cn: "法国", teamB_en: "France", flagB: "🇫🇷",
-        scoreA: 3, scoreB: 3,
-        status_cn: "点球大战 (4-2)", status_en: "FT (Pens 4-2)",
-        stage_cn: "世界杯总决赛", stage_en: "World Cup Final",
-        isLive: false
+        teamA_cn: "墨西哥", teamA_en: "Mexico", flagA: "🇲🇽",
+        teamB_cn: "南非", teamB_en: "South Africa", flagB: "🇿🇦",
+        scoreA: 2, scoreB: 0,
+        status_cn: "已结束 (Quiñones 9', Jiménez 67')", status_en: "FT (Quiñones 9', Jiménez 67')",
+        stage_cn: "揭幕战 - A组", stage_en: "Opening Match - Group A",
+        date: "2026-06-11",
+        isLive: false,
+        isFinished: true,
+        closingOdds: { winA: "2.10", draw: "3.20", winB: "3.80" }
+    },
+    {
+        teamA_cn: "韩国", teamA_en: "South Korea", flagA: "🇰🇷",
+        teamB_cn: "捷克", teamB_en: "Czechia", flagB: "🇨🇿",
+        scoreA: 1, scoreB: 1,
+        status_cn: "已结束 (揭幕激战打平)", status_en: "FT (Hard-fought Draw)",
+        stage_cn: "第一轮 - A组", stage_en: "Group A - Matchday 1",
+        date: "2026-06-11",
+        isLive: false,
+        isFinished: true,
+        closingOdds: { winA: "2.50", draw: "3.10", winB: "3.00" }
+    },
+    {
+        teamA_cn: "加拿大", teamA_en: "Canada", flagA: "🇨🇦",
+        teamB_cn: "波黑", teamB_en: "Bosnia & Herzegovina", flagB: "🇧🇦",
+        scoreA: "-", scoreB: "-",
+        status_cn: "今日 15:00 (多伦多时间) / 北京时间 03:00 (明日)", status_en: "Today 15:00 Local (Toronto) / 03:00 Beijing Time",
+        stage_cn: "揭幕战 - B组", stage_en: "Opening Match - Group B",
+        date: "2026-06-12",
+        isLive: false,
+        isFinished: false,
+        odds: { winA: "1.85", draw: "3.70", winB: "5.25" }
+    },
+    {
+        teamA_cn: "美国", teamA_en: "United States", flagA: "🇺🇸",
+        teamB_cn: "巴拉圭", teamB_en: "Paraguay", flagB: "🇵🇾",
+        scoreA: "-", scoreB: "-",
+        status_cn: "今日 18:00 (洛杉矶时间) / 北京时间 09:00 (明日)", status_en: "Today 18:00 Local (LA) / 09:00 Beijing Time",
+        stage_cn: "揭幕战 - D组", stage_en: "Opening Match - Group D",
+        date: "2026-06-12",
+        isLive: false,
+        isFinished: false,
+        odds: { winA: "2.00", draw: "3.57", winB: "4.54" }
+    },
+    {
+        teamA_cn: "卡塔尔", teamA_en: "Qatar", flagA: "🇶🇦",
+        teamB_cn: "瑞士", teamB_en: "Switzerland", flagB: "🇨🇭",
+        scoreA: "-", scoreB: "-",
+        status_cn: "明日 12:00 (旧金山时间) / 北京时间 03:00 (后日)", status_en: "Tomorrow 12:00 Local (SF) / 03:00 Beijing Time",
+        stage_cn: "第一轮 - B组", stage_en: "Group B - Matchday 1",
+        date: "2026-06-13",
+        isLive: false,
+        isFinished: false,
+        odds: { winA: "4.80", draw: "3.60", winB: "1.75" }
     },
     {
         teamA_cn: "巴西", teamA_en: "Brazil", flagA: "🇧🇷",
-        teamB_cn: "西班牙", teamB_en: "Spain", flagB: "🇪🇸",
-        scoreA: 1, scoreB: 1,
-        status_cn: "下半场 75'", status_en: "75' 2nd Half",
-        stage_cn: "半决赛强强对话", stage_en: "Semi-Final",
-        isLive: true
-    },
-    {
-        teamA_cn: "英格兰", teamA_en: "England", flagA: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        teamB_cn: "葡萄牙", teamB_en: "Portugal", flagB: "🇵🇹",
-        scoreA: 2, scoreB: 0,
-        status_cn: "已结束", status_en: "FT",
-        stage_cn: "四分之一决赛", stage_en: "Quarter-Final",
-        isLive: false
+        teamB_cn: "摩洛哥", teamB_en: "Morocco", flagB: "🇲🇦",
+        scoreA: "-", scoreB: "-",
+        status_cn: "明日 15:00 (纽约时间) / 北京时间 03:00 (后日)", status_en: "Tomorrow 15:00 Local (NY) / 03:00 Beijing Time",
+        stage_cn: "第一轮 - C组", stage_en: "Group C - Matchday 1",
+        date: "2026-06-13",
+        isLive: false,
+        isFinished: false,
+        odds: { winA: "1.45", draw: "4.50", winB: "7.00" }
     }
+];
+
+// FIFA World Cup Outright Champion Winner Odds (Real sportsbooks & market average odds)
+const championshipOdds = [
+    { team_cn: "西班牙", team_en: "Spain", flag: "🇪🇸", odds: "+450", prob: "18.2%", status_cn: "夺冠头号热门 (2024欧洲杯冠军)", status_en: "Outright Favorite (Euro 2024 Winners)" },
+    { team_cn: "法国", team_en: "France", flag: "🇫🇷", odds: "+480", prob: "17.2%", status_cn: "双子星领衔 (上届亚军)", status_en: "Euro Powerhouse (2022 Finalists)" },
+    { team_cn: "英格兰", team_en: "England", flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿", odds: "+650", prob: "13.3%", status_cn: "黄金一代蓄势待发", status_en: "Strong Contender" },
+    { team_cn: "巴西", team_en: "Brazil", flag: "🇧🇷", odds: "+850", prob: "10.5%", status_cn: "桑巴军团 (南美区世预赛头名)", status_en: "Top South American Choice" },
+    { team_cn: "阿根廷", team_en: "Argentina", flag: "🇦🇷", odds: "+900", prob: "10.0%", status_cn: "卫冕冠军 (潘帕斯雄鹰)", status_en: "Defending Champions" },
+    { team_cn: "美国", team_en: "United States", flag: "🇺🇸", odds: "+5500", prob: "1.8%", status_cn: "联合东道主 (本土作战)", status_en: "Co-host Sentiment" },
+    { team_cn: "墨西哥", team_en: "Mexico", flag: "🇲🇽", odds: "+5500", prob: "1.8%", status_cn: "联合东道主 (阿兹特克魔鬼主场)", status_en: "Co-host Sentiment" }
 ];
 
 // DOM Elements
@@ -262,60 +315,154 @@ function renderMarketWidget() {
     `;
 }
 
-// Render sports World Cup matches
+// Render sports World Cup matches & championship outright odds
 function renderSportsWidget() {
     const t = TRANSLATIONS[state.lang];
-    sportsWidget.innerHTML = `
-        <div class="widget-header">
-            <h3>${t.sports_title}</h3>
-        </div>
-        <div class="sports-cards-grid">
-            ${worldCupMatches.map(match => {
-                const nameA = state.lang === 'zh' ? match.teamA_cn : match.teamA_en;
-                const nameB = state.lang === 'zh' ? match.teamB_cn : match.teamB_en;
-                const status = state.lang === 'zh' ? match.status_cn : match.status_en;
-                const stage = state.lang === 'zh' ? match.stage_cn : match.stage_en;
-                const liveClass = match.isLive ? 'live-match' : '';
-                const badgeLabel = match.isLive ? t.match_live : t.match_ft;
-                
-                return `
-                    <div class="sports-match-card ${liveClass}">
-                        <div class="match-card-top">
-                            <span class="match-stage">${stage}</span>
-                            <span class="match-badge">${badgeLabel}</span>
-                        </div>
-                        <div class="match-scoreboard">
-                            <div class="team-side">
-                                <span class="team-flag">${match.flagA}</span>
-                                <span class="team-name">${nameA}</span>
-                            </div>
-                            <div class="match-score">
-                                <span>${match.scoreA}</span>
-                                <span class="score-divider">:</span>
-                                <span>${match.scoreB}</span>
-                            </div>
-                            <div class="team-side text-right">
-                                <span class="team-name">${nameB}</span>
-                                <span class="team-flag">${match.flagB}</span>
-                            </div>
-                        </div>
-                        <div class="match-footer">
-                            <span class="pulse-dot-sports"></span>
-                            <span class="match-status">${status}</span>
-                        </div>
+    const labelMatchTracker = state.lang === 'zh' ? '⚽ 2026 世界杯 · 赛程比分与独赢赔率' : '⚽ 2026 World Cup · Match Tracker & Odds';
+    const labelChampionship = state.lang === 'zh' ? '🏆 2026 世界杯 · 夺冠独赢赔率榜' : '🏆 2026 World Cup · Outright Winner Odds';
+    const labelOddsTitle = state.lang === 'zh' ? '独赢赔率 (1X2)' : 'Match Odds (1X2)';
+    const labelClosingOdds = state.lang === 'zh' ? '终盘赔率' : 'Closing Odds';
+    const labelProb = state.lang === 'zh' ? '夺冠概率' : 'Implied Prob.';
+    
+    let html = `
+        <div class="sports-layout-wrapper">
+            <!-- Section 1: Matches list with real scores or live odds -->
+            <div class="widget-header">
+                <h3>${labelMatchTracker}</h3>
+            </div>
+            <div class="sports-cards-grid">
+    `;
+    
+    worldCupMatches.forEach(match => {
+        const nameA = state.lang === 'zh' ? match.teamA_cn : match.teamA_en;
+        const nameB = state.lang === 'zh' ? match.teamB_cn : match.teamB_en;
+        const status = state.lang === 'zh' ? match.status_cn : match.status_en;
+        const stage = state.lang === 'zh' ? match.stage_cn : match.stage_en;
+        
+        let liveClass = '';
+        let badgeLabel = '';
+        let badgeClass = '';
+        
+        if (match.isLive) {
+            liveClass = 'live-match';
+            badgeLabel = t.match_live;
+            badgeClass = 'badge-live';
+        } else if (match.isFinished) {
+            badgeLabel = t.match_ft;
+            badgeClass = 'badge-ft';
+        } else {
+            badgeLabel = state.lang === 'zh' ? '未开始' : 'Scheduled';
+            badgeClass = 'badge-scheduled';
+        }
+        
+        // Render Odds element
+        let oddsHtml = '';
+        if (match.odds) {
+            oddsHtml = `
+                <div class="match-odds">
+                    <div class="odds-header">
+                        <span>${labelOddsTitle}</span>
                     </div>
-                `;
-            }).join('')}
+                    <div class="odds-row">
+                        <span class="odds-item"><em>1</em> <strong>${match.odds.winA}</strong></span>
+                        <span class="odds-item"><em>X</em> <strong>${match.odds.draw}</strong></span>
+                        <span class="odds-item"><em>2</em> <strong>${match.odds.winB}</strong></span>
+                    </div>
+                </div>
+            `;
+        } else if (match.closingOdds) {
+            oddsHtml = `
+                <div class="match-odds finished">
+                    <div class="odds-header">
+                        <span>${labelClosingOdds}</span>
+                    </div>
+                    <div class="odds-row">
+                        <span class="odds-item"><em>1</em> <strong>${match.closingOdds.winA}</strong></span>
+                        <span class="odds-item"><em>X</em> <strong>${match.closingOdds.draw}</strong></span>
+                        <span class="odds-item"><em>2</em> <strong>${match.closingOdds.winB}</strong></span>
+                    </div>
+                </div>
+            `;
+        }
+        
+        html += `
+            <div class="sports-match-card ${liveClass}">
+                <div class="match-card-top">
+                    <span class="match-stage">${stage}</span>
+                    <span class="match-badge ${badgeClass}">${badgeLabel}</span>
+                </div>
+                <div class="match-scoreboard">
+                    <div class="team-side">
+                        <span class="team-flag">${match.flagA}</span>
+                        <span class="team-name">${nameA}</span>
+                    </div>
+                    <div class="match-score">
+                        <span>${match.scoreA}</span>
+                        <span class="score-divider">:</span>
+                        <span>${match.scoreB}</span>
+                    </div>
+                    <div class="team-side text-right">
+                        <span class="team-name">${nameB}</span>
+                        <span class="team-flag">${match.flagB}</span>
+                    </div>
+                </div>
+                ${oddsHtml}
+                <div class="match-footer">
+                    <span class="pulse-dot-sports"></span>
+                    <span class="match-status">${status}</span>
+                </div>
+            </div>
+        `;
+    });
+    
+    html += `
+            </div>
+            
+            <!-- Section 2: Outright Tournament Odds -->
+            <div class="widget-header" style="margin-top: 2.25rem;">
+                <h3>${labelChampionship}</h3>
+            </div>
+            <div class="championship-odds-grid">
+                ${championshipOdds.map((champ, idx) => {
+                    const champName = state.lang === 'zh' ? champ.team_cn : champ.team_en;
+                    const champDesc = state.lang === 'zh' ? champ.status_cn : champ.status_en;
+                    const rank = idx + 1;
+                    return `
+                        <div class="champ-card">
+                            <div class="champ-rank">#${rank}</div>
+                            <div class="champ-team">
+                                <span class="champ-flag">${champ.flag}</span>
+                                <div class="champ-info">
+                                    <span class="champ-name">${champName}</span>
+                                    <span class="champ-desc">${champDesc}</span>
+                                </div>
+                            </div>
+                            <div class="champ-odds-data">
+                                <div class="odds-box">
+                                    <span class="odds-label">Odds</span>
+                                    <span class="odds-value">${champ.odds}</span>
+                                </div>
+                                <div class="prob-box">
+                                    <span class="prob-label">${labelProb}</span>
+                                    <span class="prob-value">${champ.prob}</span>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                }).join('')}
+            </div>
         </div>
     `;
+    
+    sportsWidget.innerHTML = html;
 }
 
 // Render secondary source filtering quick-tabs
 function renderSubFilters() {
     const t = TRANSLATIONS[state.lang];
     
-    // Find all unique sources for the active tab's articles
-    const tabArticles = state.articles.filter(a => a.category === state.currentTab);
+    // Find all unique sources for the active tab's articles in the selected language
+    const tabArticles = state.articles.filter(a => a.category === state.currentTab && a.lang === state.lang);
     const uniqueSources = ['all', ...new Set(tabArticles.map(a => a.source))];
     
     subFiltersContainer.innerHTML = uniqueSources.map(src => {
@@ -343,8 +490,8 @@ function renderNewsGrid() {
     const t = TRANSLATIONS[state.lang];
     newsGrid.innerHTML = '';
 
-    // Filter by tab, sub-filter source, and search query
-    const tabArticles = state.articles.filter(a => a.category === state.currentTab);
+    // Filter strictly by active category AND active language
+    const tabArticles = state.articles.filter(a => a.category === state.currentTab && a.lang === state.lang);
     
     const filteredArticles = tabArticles.filter(item => {
         // Source sub-filter
@@ -359,19 +506,21 @@ function renderNewsGrid() {
         return matchesFilter && matchesSearch;
     });
 
-    // Update Counters
-    const total = filteredArticles.length;
-    const zh = filteredArticles.filter(a => a.lang === 'zh').length;
-    const en = filteredArticles.filter(a => a.lang === 'en').length;
+    // Update Counters (calculated from all articles in this category across languages for visibility)
+    const categoryArticles = state.articles.filter(a => a.category === state.currentTab);
+    const totalCount = categoryArticles.length;
+    const zhCount = categoryArticles.filter(a => a.lang === 'zh').length;
+    const enCount = categoryArticles.filter(a => a.lang === 'en').length;
     
-    animateCounter(statTotalEl, total);
-    animateCounter(statZhEl, zh);
-    animateCounter(statEnEl, en);
+    animateCounter(statTotalEl, totalCount);
+    animateCounter(statZhEl, zhCount);
+    animateCounter(statEnEl, enCount);
 
     if (filteredArticles.length === 0) {
         renderEmptyState();
         return;
     }
+
 
     // Append articles cards
     filteredArticles.forEach(item => {
